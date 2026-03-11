@@ -1,0 +1,1530 @@
+espanol,quechua_texto,tipo_habla,nivel_formalidad,tema
+Me siento muy cansado.,Ancha sayk'usqan kachkani.,respuesta breve,informal,sintomas
+Me duelen los huesos con el frío.,Tulluykunan nanawan chiripipi.,respuesta breve,informal,sintomas
+Tengo mareos frecuentes.,Ashka kutitan umay muyun.,respuesta breve,informal,sintomas
+Me salieron ronchas en los brazos.,Makiykunapi sillukuna lloqsimun.,respuesta breve,informal,sintomas
+Me falta el aire al caminar.,Samay pisiwanmi purishaspay.,respuesta breve,informal,sintomas
+Su hijo tiene infección en el oído.,Wawaykiqpa ninrinpin onqoy kashan.,dialogo medico,informal,diagnostico
+Su azúcar en sangre está elevada.,Yawarniykipi misk'iqa ancha hawan kashan.,dialogo medico,informal,diagnostico
+Tiene una fractura en el brazo.,Makiykipin tullu p'akisqa kashan.,dialogo medico,informal,diagnostico
+Usted tiene parásitos intestinales.,Qanqa wiksa kuruyoqmi kanki.,dialogo medico,informal,diagnostico
+Su hemoglobina está muy baja.,Yawarniykipi hemoglobinayqa ancha urayman kashan.,dialogo medico,informal,diagnostico
+Termine todo el antibiótico.,Tukuy antibioticota tukuchiy.,dialogo medico,informal,tratamiento
+Póngase esta pomada dos veces al día.,Kay hampit'a churakuy iskay kutita sapa p'unchay.,dialogo medico,informal,tratamiento
+Tome una cucharada cada ocho horas.,Huk wislla hunt'ata tomay sapa pusaq horasta.,dialogo medico,informal,tratamiento
+No tome la pastilla en ayunas.,Ama pastillata tomaychu mana mikhuspa.,dialogo medico,informal,tratamiento
+Traiga la tarjeta de vacunación.,Vacuna tarjetaykita apamuy.,dialogo medico,informal,vacunacion
+La vacuna de influenza es cada año.,Influenza vacunaqa sapa watatan.,dialogo medico,informal,vacunacion
+Los abuelos también deben vacunarse.,Machulakunapas vacunakunankutan tiyan.,dialogo medico,informal,vacunacion
+Esta vacuna protege contra cinco males.,Kay vacunaqa pisqa onqoymanta amachan.,dialogo medico,informal,vacunacion
+El dolor de la vacuna pasa rápido.,Vacunaq nanaynin usqhayllata pasapun.,dialogo medico,informal,vacunacion
+Use sombrero para protegerse del sol.,Chukuta churakuy intimanta amachakunaykipaq.,dialogo medico,informal,prevencion
+Camine treinta minutos cada día.,Kimsa chunka minutota puriy sapa p'unchay.,dialogo medico,informal,prevencion
+Lave las frutas antes de comerlas.,Frutakunata mayllay manaraq mikhuspayki.,dialogo medico,informal,prevencion
+Coma bien durante el embarazo.,Allinta mikhuy onqosqa kashaspayki.,dialogo medico,informal,salud materno-infantil
+La leche materna es el mejor alimento.,Mamaq ñukñunmi aswan allin mikhuna.,dialogo medico,informal,salud materno-infantil
+Traiga al bebé para su control de peso.,Wawata apamuy llasayninta qhawachinaykipaq.,dialogo medico,informal,salud materno-infantil
+Venga cada mes a controlarse la presión.,Sapa killata hamuy presionniykita qhawachikuq.,dialogo medico,informal,seguimiento
+Hágase análisis de azúcar cada tres meses.,Kinsa killamanta yawar misk'i analisisniykita ruwachikuy.,dialogo medico,informal,seguimiento
+¿Le cayó mal algún medicamento?,¿Ima hampichus mana allintan chayasunki?,entrevista,informal,seguimiento
+Su presión está mejor controlada ahora.,Kunanqa presionniykiqa aswan allinñan kashan.,dialogo medico,informal,seguimiento
+Venga cada dos meses por su diabetes.,Iskay killamanta hamuy diabetesniykimanta.,dialogo medico,informal,seguimiento
+No corte la mordedura de serpiente.,Ama kuchuychu mach'aqway kanisqanta.,dialogo medico,informal,emergencias
+Dele golpes suaves en la espalda si se atora.,Wasanpi llamp'uta takay sipikunan kaptinqa.,dialogo medico,informal,emergencias
+Manténgalo despierto hasta que llegue ayuda.,Rikch'asqata hap'iy yanapay chayamunankama.,dialogo medico,informal,emergencias
+Aparte objetos peligrosos si convulsiona.,Manchay imakunata karunchay thaltikuptinqa.,dialogo medico,informal,emergencias
+Traiga al niño si la fiebre no baja.,Wawata apamuy ruphay mana uraykuptinqa.,dialogo medico,informal,emergencias
+Respire profundo cuando se sienta ansioso.,Ukhumanta samay llakisqa kachkaspayki.,dialogo medico,informal,salud mental
+Los problemas emocionales necesitan atención.,Sonqo llakiykunaqa qhawana kanan tiyan.,narracion,informal,salud mental
+Caminar al aire libre mejora el ánimo.,Hawa wayra ukhuta puriyqa sonqota allinchan.,narracion,informal,salud mental
+No tenga vergüenza de pedir ayuda.,Ama p'enqakuychu yanapata mañakuspa.,dialogo medico,informal,salud mental
+El alcohol empeora los problemas emocionales.,Tragoman sonqo llakiykunata aswan millayman tukuchin.,narracion,informal,salud mental
+Proteja sus labios con vaselina.,Simiykikunata wirawan qhaway.,dialogo medico,informal,enfermedades alto-andinas
+El sol quema más fuerte en la altura.,Intiq ruphaynin aswan sinchi orqopiqa.,narracion,informal,enfermedades alto-andinas
+La diarrea por agua sucia es frecuente.,Qhelle unumanta q'echaqa ashkatan kan.,narracion,informal,enfermedades alto-andinas
+Los parásitos son comunes en los niños.,Kurukuna erqekunapiqa ashkatan kan.,narracion,informal,enfermedades alto-andinas
+Doctor; me duele la cabeza,doctor; humaymi nanashan,dialogo medico,formal,malestar
+Tengo fiebre desde ayer,noqa kayna p'unchay manta cuerpoy q'oñirishan,dialogo medico,formal,malestar
+Me duele mucho el estómago,noqap wiksaymi nishutan nanan,dialogo medico,formal,malestar
+Me arde la garganta,kunkay ruparishan,dialogo medico,formal,malestar
+Tengo tos seca hace días,noka ch'akiy uhuan kashani kayna p'unchaumanta,dialogo medico,formal,malestar
+Usted tiene anemia severa,qan anemiawan kashanki,dialogo medico,formal,evaluacion
+Vamos a hacerle una radiografía,kuman orqosayki radiografiata,dialogo medico,formal,evaluacion
+Su presión está muy alta,qanpa presioniki nishuta wichashan,dialogo medico,formal,evaluacion
+Tiene una infección urinaria,qan kashanki infeccion urinariawan,dialogo medico,formal,evaluacion
+Necesitamos hacerle más análisis,ruwasunchis aswan analisista kunata,dialogo medico,formal,evaluacion
+Tome este remedio tres veces al día,chay hampita tumanqui kinsa kutita huk p'unchaypi,dialogo medico,formal,curacion
+Le voy a poner una inyección,kunan churasayki huk inyeccionta,dialogo medico,formal,curacion
+Necesita descansar cinco días,samanayqui pisqa p'unchauta,dialogo medico,formal,curacion
+Tome mucha agua y líquidos calientes,tumanayqui hasqha unuta q'uñita,dialogo medico,formal,curacion
+Vamos a limpiarle la herida,khunan pichasayqui heridayquita,dialogo medico,formal,curacion
+Su bebé necesita la vacuna hoy,wawaykima kunan p'unchay vacunata churasaq,dialogo medico,formal,inmunizacion
+La vacuna puede dar un poco de fiebre,vacuna churasqay q'uñirichinqa,dialogo medico,formal,inmunizacion
+Los niños deben vacunarse a tiempo,chay erq'ekuna vacunakunanqu p'unchauninpi,dialogo medico,formal,inmunizacion
+Póngale un paño húmedo en el brazo,churanqui pañuta ch'aranchaspa maquinman,dialogo medico,formal,inmunizacion
+La siguiente dosis es en dos meses,huk dosisniki tupasunki iskay killamanta,dialogo medico,formal,inmunizacion
+Lávese las manos antes de cocinar,makitita maychikuy huayq'uy kayarinaquipay,dialogo medico,formal,autocuidado
+Hierva el agua antes de tomarla,unuta timpuchi tumanakipaq,dialogo medico,formal,autocuidado
+Use mosquitero para dormir,mosquiterota usay puñunayquipaq,dialogo medico,formal,autocuidado
+Los niños deben comer frutas y verduras,erq'ekuna mikhunanku frutakunata y verdurakunata,dialogo medico,formal,autocuidado
+Evite acercarse a personas con gripe,ama achuyaychu chuqlli runaqunama,dialogo medico,formal,autocuidado
+Venga a su control prenatal cada mes,hamuy wawaki wiqsayki qhawanapaq sapakilla,dialogo medico,formal,maternidad
+Tome ácido fólico y hierro a diario,tumanki acido folicuta y hierro tawa sapa p'unchay,dialogo medico,formal,maternidad
+Si le duele la cabeza fuerte; venga rápido,umayki mishuta nanaqtinqa hamuy phawaylla,dialogo medico,formal,maternidad
+Su bebé está creciendo bien,wawaykika allintan wiñashan,dialogo medico,formal,maternidad
+Las náuseas son normales al inicio,mihusqayki qutichiskayqi normallan qallaripiqa,dialogo medico,formal,maternidad
+Regrese en una semana para su control,qutimuy huk semanamanta controlnikipaq,dialogo medico,formal,seguimiento
+Si la fiebre vuelve; venga de inmediato,q'oñirinkiy wahamanta hamunki chay ratuta,dialogo medico,formal,seguimiento
+Traiga sus resultados en la próxima cita,apamunki resutadokikunata hamuq citapi,dialogo medico,formal,seguimiento
+¿Se siente mejor con el medicamento?,allinchu kashanki chay hanpiwan?,dialogo medico,formal,seguimiento
+Vamos a revisar su herida hoy,khunan kawasunchis chay heridaquita,dialogo medico,formal,seguimiento
+Llévelo al hospital de urgencia,apay hanpina wasima phawaylla,dialogo medico,formal,urgencia
+Póngalo de costado si vomita,churay k'achananpanmanta kutichiktin,dialogo medico,formal,urgencia
+Presione la herida para parar la sangre,nit'iy heridanta mana yawar phawananpaq,dialogo medico,formal,urgencia
+No mueva al accidentado,ama kuyurichiychu k'irisqa runata,dialogo medico,formal,urgencia
+Ponga la quemadura bajo agua fría,churay rupasqata unu ukhuman,dialogo medico,formal,urgencia
+Es normal sentirse triste a veces,normalmi kuyay kayqa a wakinkunapiqa,dialogo medico,formal,bienestar
+¿Tiene problemas para dormir últimamente?,kanchu sasachakuy puñunaykipaq ultimamentipi,dialogo medico,formal,bienestar
+El estrés puede causar dolor de cabeza,yuyay saykuy causame umananayta,dialogo medico,formal,bienestar
+Hable con alguien cuando se sienta mal,rimay piwanpas llakiskaq kaspayqui,dialogo medico,formal,bienestar
+La salud mental es muy importante,yuyaypa allin kawsayninqa ancha allinmi,dialogo medico,formal,bienestar
+El soroche causa dolor de cabeza y mareos,soroche apamun uma nanayta y kutichin,dialogo medico,formal,adaptacion
+Tome mate de coca y descanse,tomay coca matita y samay,dialogo medico,formal,adaptacion
+Las infecciones respiratorias son comunes aquí,pukyu onqoy wakinkunapaq kaypi,dialogo medico,formal,adaptacion
+Abríguese bien el pecho por el frío,ayllinta tapakuy ñukñuykita chirimanta,dialogo medico,formal,adaptacion
+La piel se reseca mucho con el frío,qara chaquin nishuta chirimuqtin,dialogo medico,formal,adaptacion
+Me duele el pecho al respirar.,Samayniypi qhasquypas nanawan.,narracion,formal,sintomas
+Tengo diarrea desde ayer.,Qaynamantapacha q'icha onqoywan kashani.,narracion,formal,sintomas
+Me sangra la nariz seguido.,Sapa kutillan senqaymanta yawar lloqsimun.,narracion,formal,sintomas
+No puedo mover bien el brazo.,Mana rikrayta allintachu kuyuchiyta atini.,narracion,formal,sintomas
+No puedo dormir en las noches.,Mana tutapi puñuyta atiniñachu.,narracion,formal,sintomas
+La prueba de malaria salió positiva.,Chukchu onqoymanta tupuymi lloqsimun.,narracion,formal,diagnostico
+Su colesterol está elevado.,Wiraykiqa yawarniykipi sinchi wisñun kashan.,narracion,formal,diagnostico
+Su corazón tiene un ritmo irregular.,Sonqoykiqa mana allintachu p'itashan.,narracion,formal,diagnostico
+Su embarazo tiene ocho semanas.,Pusaq semanayoqñan wiksayki kashan.,narracion,formal,diagnostico
+Tiene una infección respiratoria.,Samayniykimanmi onqoy haykusunki.,narracion,formal,diagnostico
+Toda la familia debe desparasitarse.,Llapa familiaykichismi k'urukunamanta hampiwanan.,narracion,formal,medicacion
+Póngase compresas tibias en la herida.,Chiri-q'oñi unuwan k'iriykita q'oñichikuy.,narracion,formal,tratamiento
+Tome su pastilla de presión cada día.,Sapa p'unchaymi presión nisqa hampiykita ukyanayki.,narracion,formal,medicacion
+Échese estas gotas en los ojos.,Kay sut'uykunata ñawiykiman churakuy.,narracion,formal,tratamiento
+Haga gárgaras con agua y sal.,Kachiyoq unuwan kumu-kumuta ruway.,narracion,formal,tratamiento
+Las vacunas son seguras para los niños.,Vacuna nisqakunaqa wawakunapaq allinmi.,narracion,formal,vacunacion
+Traiga al bebé para su vacuna de seis meses.,Soqta killayoq wawata vacunaman apamuy.,narracion,formal,vacunacion
+La hepatitis B se vacuna al nacer.,Paqariqtinpachan hepatitis B nisqa contra vacunana.,narracion,formal,vacunacion
+Todas las vacunas son gratuitas.,Llapa vacunacionqa mana qolqepaqmi.,narracion,formal,vacunacion
+Coma menos sal y menos azúcar.,Pisi kachillata pisi misk'illatawan mijuy.,narracion,formal,prevencion
+No deje animales entrar a la cocina.,Uywakunaqa ama wayk'una wasiman haykunqachu.,narracion,formal,prevencion
+Lleve al niño a su control cada mes.,Sapa killan wawata qhawachinaykipaq apamuy.,narracion,formal,seguimiento
+Tape los alimentos para que no entren moscas.,Mikhuykunata allinta p'ampay ama chuspikuna haykunanpaq.,narracion,formal,prevencion
+Desparasítese cada seis meses.,Soqta killamanta k'urukunapaq hampiwan ukyay.,narracion,formal,prevencion
+No cargue cosas pesadas en el embarazo.,Wiksayki kashaqtinqa ama llasaqkunata hoqariyachu.,narracion,formal,seguimiento
+Su bebé tiene buen peso para su edad.,Wawaykiqa wiñayninman jina allin llasayniyoqmi.,narracion,formal,seguimiento
+Hágase la prueba de anemia en cada control.,Sapa kutin qhawachikuqtiyki anemia tupuyniykita ruwachikuy.,narracion,formal,diagnostico
+Le explicaremos sobre planificación familiar..,Wawa miraymanta allin yuyaymanaymanta willasqaykiku.,narracion,formal,seguimiento
+Le voy a pedir nuevos análisis de sangre.,Yawarniykimanta wajmanta tupuyniykita mañakusayki.,narracion,formal,seguimiento
+Su herida está sanando bien.,K'iriykiqa allinmi qhaliyashan.,narracion,formal,seguimiento
+Traiga su registro de presión de casa.,Wasiykimanta presión tupuyniyki qelqasqaykita apamuy.,narracion,formal,seguimiento
+Su siguiente cita es en quince días.,Chunka phisqayoq p'unchaymanta kutimunki.,narracion,formal,seguimiento
+Ha mejorado bastante desde la última vez.,Qayna kutimantapachaqa allinñan kashanki.,narracion,formal,seguimiento
+No ponga remedios caseros en heridas graves.,Sinchi k'iriykipiqa ama ima hampitapas churaychu.,narracion,formal,tratamiento
+Descanse de las actividades que le estresan.,Llakichiqniyki llank'aykunamanta samariy.,narracion,formal,seguimiento
+Manejar el estrés previene enfermedades.,Llakikuyta samaykachiyqa onqoykunamanta jark'asunki.,narracion,formal,prevencion
+No se aísle cuando se sienta triste.,Llakiypi kashaspaqa ama sapallaykiqa kaychu.,narracion,formal,seguimiento
+Aquí tenemos ayuda profesional disponible.,Kaypin hampi kamayuqkuna yanapanasuykipaq kashanku.,narracion,formal,seguimiento
+En lluvias aumentan las enfermedades del estómago.,Paray pachaqa wiksapi onqoykuna miran.,narracion,formal,prevencion
+Abrigue bien a los niños en las madrugadas.,Sapa paqarin wawakunata allinta q'oñichiy.,narracion,formal,prevencion
+La conjuntivitis es común por el polvo y viento.,Wayra-hallp'awanqa ñawi onqoy sapa kutin qallarin.,narracion,formal,prevencion
+Las heladas dañan la piel desprotegida.,Qasa pachaqa qaraykita k'irinman.,narracion,formal,prevencion
+El agua limpia previene muchas enfermedades.,Ch'uya unuqa onqoykunamanta jark'awanchis.,narracion,formal,prevencion
+Me zumba el oído derecho,Paña lado rinriy q'aparyshan,dialogo medico,informal,sintomas
+Me duele la espalda baja,Wasaypa uray nanashawan,dialogo medico,informal,sintomas
+Se me hinchan los pies,Chakiymi punkishan,dialogo medico,informal,sintomas
+Tengo náuseas y vómitos,Noq'a miyakushanipis aqtoytapis munashani,dialogo medico,informal,sintomas
+Me arden los ojos,Ñawiymi q'arashan,dialogo medico,informal,sintomas
+Tiene gastritis crónica,Gastritis cronicawanmi kashanqi,dialogo medico,informal,diagnostico
+Le haremos una ecografía,Ecografiata urquchimusayki,dialogo medico,informal,diagnostico
+Su diabetes necesita más control,Diabetesniyki controlanan kashan,dialogo medico,informal,diagnostico
+El análisis muestra parásitos,Análisismi parásitokunata rikuchin,dialogo medico,informal,diagnostico
+Vamos a tomarle una muestra de sangre,Yawarnikita qhawachimusun,dialogo medico,informal,diagnostico
+Tome el calmante solo si duele mucho,Nishuta nanaqtinqa calmanteta tomay,dialogo medico,informal,tratamiento
+Este remedio le dará sueño,Kay hampiy puñuyta qhonka,dialogo medico,informal,tratamiento
+Guarde las medicinas lejos de los niños,Hampikunataqa wawakunamanta karupi waqaychay,dialogo medico,informal,tratamiento
+No tome alcohol con este remedio,Kay hampiwanqa ama tragota ojaychu,dialogo medico,informal,tratamiento
+Tome el hierro con jugo de naranja,Fierrutaqa naranja jugopi tomay,dialogo medico,informal,tratamiento
+La vacuna del tétanos es importante,Tétanospa vacunanmi ancha allin,dialogo medico,informal,vacunacion
+Espere veinte minutos después de vacunarse,Vacunarachicuspaka suyanayqui iskay chunka minututa,dialogo medico,informal,vacunacion
+Su hijo ya tiene todas sus vacunas,Wawaykiqa llapa vacunataña hap'in,dialogo medico,informal,vacunacion
+La campaña de vacunación empieza pronto,Vacunación kampañaqa prontollaña qallarinqa,dialogo medico,informal,vacunacion
+Las embarazadas deben vacunarse también,Wiksayuq warmikunapas vacunachicunanku,dialogo medico,informal,vacunacion
+Lávese los dientes tres veces al día,Kiruyniykita mayllikuy kinsa kutita punchawpi,dialogo medico,informal,prevencion
+Cocine bien la carne y los huevos,Aychatawan runtutawan allinta wayk'uy,dialogo medico,informal,prevencion
+No deje agua estancada en baldes,Ama baldepi unuta sayachiychu,dialogo medico,informal,prevencion
+Use zapatos para caminar en el campo,Chakrapi purinaykipaq zapatuta churakuy,dialogo medico,informal,prevencion
+Duerma ocho horas cada noche,Sapa tutam pusaq horasta puñuy,dialogo medico,informal,prevencion
+Mantenga el ombligo del bebé limpio y seco,Wawapa puputanqa ch’uya ch’akiyuqta waqaychay,dialogo medico,informal,salud materno-infantil
+Solo leche materna hasta los seis meses,Soqta killa kamaqa mamapa ñuñullanta qhonan,dialogo medico,informal,salud materno-infantil
+Aliméntese bien para tener buena leche,Allin ñuñu kananpaq allinta mikuy,dialogo medico,informal,salud materno-infantil
+¿Ha seguido la dieta que le indiqué?,Nisqay dietataqa ruwarqunkichu,dialogo medico,informal,seguimiento
+Sus análisis muestran mejoría,Análisisniyki allinchasqanta rikuchin,dialogo medico,informal,seguimiento
+Vamos a pesarlo y tomarle la presión,Llasaynikitawan presionniykitawan urqhusun,dialogo medico,informal,seguimiento
+No deje el tratamiento aunque se sienta bien,Aman tratamientoykita saqiychu allinkashaspapas,dialogo medico,informal,seguimiento
+No le dé remedios si está inconsciente,Ama hampita qoychu mana yuyaynimpi kaptin,dialogo medico,informal,emergencias
+Ponga hielo en el golpe para la hinchazón,Ch'ullunkua churay mana punkinanpaq,dialogo medico,informal,emergencias
+Dormir bien ayuda a la salud mental,Allin puñuyqa allin yuyayniuq qanaykipaq,dialogo medico,informal,salud mental
+Busque apoyo si no controla sus emociones,Sentimientoykita mana controlayta atispaqa yanapaqta mashkay,dialogo medico,informal,salud mental
+Los niños también sufren estrés,Wawakunapis estreswan qhuyaykanku,dialogo medico,informal,salud mental
+Comparta tiempo con su familia,Aylluykiwan tiempota qoynakuy,dialogo medico,informal,salud mental
+Las preocupaciones afectan la salud,Llakikuyqa onkuyta apamun,dialogo medico,informal,salud mental
+El frío afecta los pulmones de los abuelos,Chiriqa machulakunan pulmoninta onkuchin,dialogo medico,informal,enfermedades alto-andinas
+La desnutrición infantil es un problema serio,Wawakunapa desnutricionninqa ancha hatun sasachakuymi,dialogo medico,informal,enfermedades alto-andinas
+Tome sopas e infusiones calientes,Sopakunata infusiónkunatawan q’uñita upyay,dialogo medico,informal,enfermedades alto-andinas
+La piel se infecta fácil por la sequedad,ch’akiriwanqa qara facilta infectakun,dialogo medico,informal,enfermedades alto-andinas
+El asma empeora con el frío y la altura,Asmaqa chiriywanpas alturawanpas aswanta hap'in,dialogo medico,informal,enfermedades alto-andinas
+¿Te sientes enfermo(a)?,Qampa onqosqa qinachu kachkanki?,dialogo medico,informal,sintomas
+¿Comenzaste a sentirte enfermo(a) hoy?,Qampachu qallakuykun kanan punchaw onqoynikipi?,dialogo medico,informal,sintomas
+¿Cuántos días te has sentido enfermo(a)?,Qayka punchawñam onqoynikpiqa?,dialogo medico,informal,sintomas
+¿La enfermedad está aquí?,Onqoynikichu kaynikipi kachkan?,dialogo medico,informal,sintomas
+¿Sientes náuseas?,Qamchu millakusqayuq kachkanki?,dialogo medico,informal,sintomas
+¿Las náuseas comenzaron hoy?,Millakusqaykichu qallarin kanan punchaypi?,dialogo medico,informal,sintomas
+¿Cuántos días has tenido náuseas?,Qayka punchawñam qampa millakusqawan kachkanki?,dialogo medico,informal,sintomas
+¿Has estado vomitando?,Qamchu weqocharanki?,dialogo medico,informal,sintomas
+¿Hay sangre en tu vómito?,Karqachu yawar weqochasaykipi?,dialogo medico,informal,sintomas
+Tu vómito tiene color negro?,Karqachu yanaqsa weqochasaykipi?,dialogo medico,informal,sintomas
+¿Has tenido diarrea?,Qamchu qechachakuywan karanki?,dialogo medico,informal,sintomas
+¿Cuántas veces has tenido diarrea hoy?,Qayka kutitammich qechachakuywan kanan punchaw karqanki?,dialogo medico,informal,sintomas
+¿Tu diarrea de hoy llenaría esto?,Chay qechachakaykita kay punchawpi quntaykachayku kuman?,dialogo medico,informal,sintomas
+¿De qué color es la diarrea?,Ima llimpinmi qechakusqayki?,dialogo medico,informal,sintomas
+¿Es rojo?,Pukachu?,respuesta breve,informal,sintomas
+¿Es amarillo?,Qelluchu?,respuesta breve,informal,sintomas
+¿Es verde?,Qomerchu?,respuesta breve,informal,sintomas
+¿Es negro?,Yanachu?,respuesta breve,informal,sintomas
+¿Cuándo fue la última vez que defecaste?,Qaynaqtachu qepanpi wik'saykita evakuaranki?,dialogo medico,informal,sintomas
+Ha habido sangre en tus heces?,Karqachu ima yawarpas chay evakuasqa cuerpopi?,dialogo medico,informal,sintomas
+¿Estás sangrando por el recto?,Yawartawanchu lluqsichkanki rectuykimanta?,dialogo medico,informal,sintomas
+¿Tus heces han sido negras?,Yanayasqachu chay evakuasqayki cuerpon?,dialogo medico,informal,sintomas
+¿Tienes fiebre?,Fiebrayuqchu kachkanki?,dialogo medico,informal,sintomas
+¿Cuántos días has tenido fiebre?,Qayka punchawñam fiebrayuq kachkanki?,dialogo medico,informal,sintomas
+¿Arde cuando orinas?,Rupachkanchu ispakutiki?,dialogo medico,informal,sintomas
+¿Estás orinando más de lo habitual?,Ispakuchkankichu achkanta wan qinallamanta?,dialogo medico,informal,sintomas
+¿Hay sangre en la orina?,Yawarchu kan urinaykipi?,dialogo medico,informal,sintomas
+¿Cuándo fue la última vez que comiste?,Qaynaqtachu qepanpi mikuykuranki?,dialogo medico,informal,sintomas
+¿Tienes hambre?,Yarqaywanchu kachkanki?,dialogo medico,informal,sintomas
+¿Tienes parásitos (lombrices)?,Wiksaykipichu urukunakuna kachkan?,dialogo medico,informal,diagnostico
+¿Tienes malaria?,Qamchu kachkanki malariyawan?,dialogo medico,informal,diagnostico
+¿Tienes tuberculosis?,Qamchu kachkanki tuberculosiswan?,dialogo medico,informal,diagnostico
+¿Sabes qué significa el término VIH?,Qamchu yachanki VIH iman nisqanta?,dialogo medico,informal,diagnostico
+¿Sabes qué significa el término SIDA?,Qamchu yachanki SIDA iman nisqanta?,dialogo medico,informal,diagnostico
+¿Estás infectado(a) con el virus VIH?,Qamchu kachkanki VIH viruswan?,dialogo medico,informal,diagnostico
+¿Tienes SIDA?,Qamchu kachkanki SIDA nisqanwan?,dialogo medico,informal,diagnostico
+Necesitas un análisis de sangre para el virus VIH.,Qampaqa yawarnikita analizananpaqmi chay VIH virus qawanampaq.,dialogo medico,informal,diagnostico
+¿Te duele esta articulación que estoy tocando?,Qampachu nanachkan kay tulluyki tinkunampi qapiruykupi?,dialogo medico,informal,sintomas
+¿Te duele alguna otra articulación?,Qampachu nanachkan huklla tulluyki tinkunampi?,dialogo medico,informal,sintomas
+¿Qué articulación te duele más?,Mayqin tulluyki tinkunmi aswan nanachkan?,dialogo medico,informal,sintomas
+¿Te duele este músculo que estoy tocando?,Nanachkanchu kay kallpaykipa aychan qapiruykupi?,dialogo medico,informal,sintomas
+¿Te duele algún otro músculo?,Qampachu nanachkan huklla kallpaykipa aychan?,dialogo medico,informal,sintomas
+¿Dónde está el dolor muscular?,Maypim kay kallpayki aychan nanachkan?,dialogo medico,informal,sintomas
+¿Este músculo tiene calambre?,Kay kallpayki aychanchu kalambriyuk kachkan?,dialogo medico,informal,sintomas
+¿Alguna vez has tenido algún hueso roto?,Imata kutillapas qampa tulluykikuna pakikurqachu?,dialogo medico,informal,sintomas
+¿Qué huesos te has roto?,Ima tulluykikunata pakikurqanki?,dialogo medico,informal,sintomas
+¿Duele cuando hago esto?,Nanachisunkichu kaynata ruwaptiy?,dialogo medico,informal,sintomas
+Haz esto.,Ruwaykuy kaynata.,respuesta breve,informal,sintomas
+Necesitas una radiografía de tu hueso.,Qampa tulluykita rayos X (equistam)wan qhawachiyta munanki.,dialogo medico,informal,diagnostico
+Examinaré la radiografía y te diré lo que veo.,"Ñuqam qhawakusaq chay rayos X-ta, qhawasqayta nisqayki.",dialogo medico,informal,diagnostico
+El hueso está roto aquí.,Tulluykim kaypi pakisqa kachkan.,dialogo medico,informal,diagnostico
+El hueso no está roto aquí.,Tulluykim kaypi mana pakisqachu.,dialogo medico,informal,diagnostico
+Necesitas un yeso para ayudar a que el hueso sane.,Tulluykita allinchananpaq yesuta churayta munanki.,dialogo medico,informal,tratamiento
+No te quites el yeso.,Ama chay yesuta kuyuchinkichu.,dialogo medico,informal,tratamiento
+No mojes el yeso.,Ama chay yesuta qochichinkichu.,dialogo medico,informal,tratamiento
+Necesitas una férula para ayudar a que la lesión sane.,Qanmi huk tablillata munanki hiridaykita yanapananpaq allinchakunampaq.,dialogo medico,informal,tratamiento
+Puedes quitarte la férula para limpiarte.,Qanmi urquykuyta atinki chay tablillata mayninaykipaq.,dialogo medico,informal,tratamiento
+La férula debe volver a colocarse después de que te limpies.,Chay tablillata kutichiyta tiyan mayninaykimanta qhipa.,dialogo medico,informal,tratamiento
+Necesitas una placa metálica y tornillos para ayudar a que tu hueso sane.,Qanmi huk metal placata tornillokunawan munanki tulluykita yanapananpaq allinchakunampaq.,dialogo medico,informal,tratamiento
+Necesitamos llevarte a la sala de operaciones para realizar una cirugía.,Ñuqayku qamta apasayku operacion cuartuman qallpachinanpaq.,dialogo medico,informal,tratamiento
+Su hijo(a) está enfermo(a).,Wawaykim unqusqa kachkan.,dialogo medico,informal,salud materno-infantil
+Su hijo(a) está lastimado(a).,Wawaykim hirisqam kachkan.,dialogo medico,informal,salud materno-infantil
+Necesitamos cuidar a su hijo(a).,Ñuqaykum qawanayku wawaykita.,dialogo medico,informal,salud materno-infantil
+Necesita permitirnos que su hijo(a) se quede por hoy.,Qanmi saqiyku wawaykita kaypi kay punchawlla ñuqaykuman.,dialogo medico,informal,salud materno-infantil
+Necesita permitirnos que su hijo(a) se quede aquí.,Qanmi saqiwankiku wawaykita kaypi ñuqaykuman.,dialogo medico,informal,salud materno-infantil
+Puede quedarse con su hijo(a).,Qanmi wawaykiwan kanki kaypi.,dialogo medico,informal,salud materno-infantil
+Permítanos examinar a su hijo(a) en privado.,Ñuqaykuman saqiy wawaykita allinta qawaykunaykupaq.,dialogo medico,informal,salud materno-infantil
+Su hijo(a) mejorará pronto.,Wawaykim utqaymanta allinchakunqa.,dialogo medico,informal,salud materno-infantil
+Este medicamento ayudará a su hijo(a).,Kay hampi wawaykita yanapanqa.,dialogo medico,informal,salud materno-infantil
+¿Su hijo(a) comió hoy?,Wawaykichu mikurqa kay punchawpi?,dialogo medico,informal,salud materno-infantil
+¿Su hijo(a) comió ayer?,Wawaykichu mikurqa qayna punchawpi?,dialogo medico,informal,salud materno-infantil
+¿Su hijo(a) ha orinado hoy?,Wawaykicha ispakurqa kay punchawpi?,dialogo medico,informal,salud materno-infantil
+¿Su hijo(a) ha hecho deposición hoy?,Wawaykicha wiksanmanta evakuarqa kay punchawpi?,dialogo medico,informal,salud materno-infantil
+¿Su hijo(a) hizo deposición ayer?,Wawaykicha wiksanmanta evakuarqa qayna punchawpi?,dialogo medico,informal,salud materno-infantil
+¿Su hijo(a) ha tenido diarrea?,Wawaykichu qechawan karqa?,dialogo medico,informal,salud materno-infantil
+¿Su hijo(a) ha estado vomitando?,Wawaykichu weqowan karqa?,dialogo medico,informal,salud materno-infantil
+Su hijo(a) parece saludable.,Wawaykim allin rikurinqa kachkan.,dialogo medico,informal,salud materno-infantil
+Su hijo(a) estará bien.,Wawaykim allin kachkanqa.,dialogo medico,informal,salud materno-infantil
+Su hijo(a) estará enfermo(a) por mucho tiempo.,Wawaykika unqusqa kanqa llumpayman.,dialogo medico,informal,salud materno-infantil
+"Esta enfermedad pasará lentamente, pero la salud de su hijo(a) volverá completamente.","Kay unqunaq allillamanta ripunqa, qinaptinqa wawaykipa qallilinqa kutimunqam tukupayninkama.",dialogo medico,informal,salud materno-infantil
+Déle al niño(a) pequeñas porciones cada pocas horas.,Wawaykita pisillapi mikuchiy aswan kutillapi.,dialogo medico,informal,salud materno-infantil
+Ayude a su hijo(a) a beber esto cada pocas horas.,Wawaykita yanapay pisi upyananpaq aswan kutillapi.,dialogo medico,informal,salud materno-infantil
+Déle este medicamento a su hijo(a) cada cuatro horas.,Wawaykiman ququy kay qampita sapa tawa huranmanta.,dialogo medico,informal,salud materno-infantil
+Deje que su hijo(a) duerma.,Wawaykita saqiy puñukunanta.,dialogo medico,informal,salud materno-infantil
+Usted necesita dormir tanto como el niño(a).,Qanmi puñuwaq chay wawayki qinakama.,dialogo medico,informal,salud materno-infantil
+Traiga a su hijo(a) de regreso aquí mañana.,Qanmi kutichimunki paqarin wawaykita kayman.,dialogo medico,informal,seguimiento
+Traiga a su hijo(a) de regreso si no hay mejoría hasta mañana.,Qanmi kutichimunki paqarin wawaykita sichus mana allinllaniptin.,dialogo medico,informal,seguimiento
+Continuaremos haciendo seguimiento a la salud de su hijo(a) junto con usted.,Ñuqanchikmi qatisunchik qanwanpuni wawaykipa allinllanantam.,dialogo medico,informal,seguimiento
+Abre los ojos.,Kichay ñawikikunata,respuesta breve,informal,sintomas
+Cierra los ojos.,Wichqay ñawikikunata.,respuesta breve,informal,sintomas
+¿Te duelen los ojos?,ñawikichum nanachkan?,dialogo medico,informal,sintomas
+¿Usas lentes correctivos?,Qamchukanki anteojusman qawakuy?,dialogo medico,informal,sintomas
+¿Usas lentes de contacto?,Qamchu kanki contact lente wan qawakuy?,dialogo medico,informal,sintomas
+¿Ves claramente con ambos ojos?,Sumaqtachum qawakunki iskaynin ñawiykikunawan?,dialogo medico,informal,sintomas
+¿Cuál ojo tiene un nuevo problema?,Mayqin ñawikitaq qallaykun problemwan?,dialogo medico,informal,sintomas
+¿Ves mis dedos?,Qawachkankichu lliw deduykunata?,dialogo medico,informal,sintomas
+¿Se ven claros?,Allintachu rikukun?,dialogo medico,informal,sintomas
+¿Cuántos dedos ves ahora?,Qayka dedukunatam qawachkanki kunanqa?,dialogo medico,informal,sintomas
+Voy a mirar dentro de tus ojos con esto.,Ñuqam qawasq kaywan ñawikikupa ukunta.,dialogo medico,informal,sintomas
+Mantén tu cabeza quieta.,Umaykita amam muyunachu.,dialogo medico,informal,sintomas
+¿Para que viniste señora?,¿Imamanmy hamushanqui sipas?,dialogo medico,informal,sintomas
+yo vine porque me duele la cabeza,Noqa Hamushani umay nanawaqtin,respuesta breve,informal,sintomas
+¿Imayki nanasunki taytay?,Que te duele señor,dialogo medico,informal,sintomas
+A mi me duele la pierna,Noqata nanawan chakay,respuesta breve,informal,sintomas
+Dede cuando estas enfermo,¿Hayk'akmanta pachaq onq'oska kashanki?,dialogo medico,informal,sintomas
+Yo estoy mal hace dos dias,Noqa kashani onq'oska iskay punchayña,respuesta breve,informal,sintomas
+¿que le duela a tu hijo?,¿Imanmy nanashan wawayki?,dialogo medico,informal,salud materno-infantil
+A mi hijo le duele su barriga,Wawaypa nanashan wiksan,respuesta breve,informal,salud materno-infantil
+¿De que empezo tu enfermedad?,¿Imamanta kallarin onq'oynin?,dialogo medico,informal,sintomas
+"¿como te duele poco, mucho, leve?","¿Imaynatan nanashan pisitachu, ashkatachu, nishutachu?",dialogo medico,informal,sintomas
+¿Que cosa aumenta tu dolor?,¿Iman yapasunki nanayta?,dialogo medico,informal,sintomas
+¿Te duele la cabeza?,¿Umayki nanan?,dialogo medico,informal,sintomas
+¿Orinas bien en la mañana?,¿Hispashankichu allinta tutamanta?,dialogo medico,informal,sintomas
+¿Duermes bien?,¿Allytachu puñunky?,dialogo medico,informal,sintomas
+¿cuando toces te duele la espalda?,¿uhuqtiyki nananchu wasayki?,dialogo medico,informal,sintomas
+¿cuando caminas tu pecho te agita?,¿purijtiyki kasqoyki matisunkichu?,dialogo medico,informal,sintomas
+¿te marea la cabeza?,¿umaykichu muyun?,dialogo medico,informal,sintomas
+no pongas duro el estomago,wicsaykita ama kuyuchiychu,dialogo medico,informal,sintomas
+me duele la boca cuando abro,simiymi nanan kichaqtiy,respuesta breve,informal,sintomas
+¿tienes apetito?,¿yarkay hapisunkichu?,dialogo medico,informal,sintomas
+¿tienes asco a la comida?,¿millankunkichu mikhunata?,dialogo medico,informal,sintomas
+"¿No quieres comer, desde cuando?",¿mana mikhuita munanqichu hayk'acmanta?,dialogo medico,informal,sintomas
+¿cuando orinas te arde?,¿Hispaqtiyki K'arasunkichu?,dialogo medico,informal,sintomas
+¿tu orina apesta o es amarillo?,¿Hispayniki asnachu o kelluchu?,dialogo medico,informal,sintomas
+¿en tu orina has visto sangre?,¿Hispaynikipi yawarta rikurankichu?,dialogo medico,informal,sintomas
+¿le viene sangre todos los meses?,¿yawarniki hamun supa killachu?,dialogo medico,informal,sintomas
+"¿le baja poca o mucha, de dia o de noche?",¿hamun pisichu o askachu tutachu o punchaychu?,dialogo medico,informal,sintomas
+¿desde cuando arrastra su pierna?,¿Hayk'akmanta chaquiykita aysanki?,dialogo medico,informal,sintomas
+dele de mamar a su hijo cada tres horas,wawayquita ñuñunky sapa kinsa hora,dialogo medico,informal,salud materno-infantil
+ahora que tiene diarrea dele muchos liquidos,kunan kechawan kashan ashkata unuta qonayki,dialogo medico,informal,tratamiento
+mañana vienes en ayunas,pakarin hamunki ama mikhuspa,dialogo medico,informal,seguimiento
+trae tu orina en este frasco,kay frascopi hispasnikita apamunki,dialogo medico,informal,diagnostico
+Trae tus heces,Akaykita apamunki,dialogo medico,informal,diagnostico
+te vamos a sacar sangre,yawarta orqosunki,dialogo medico,informal,diagnostico
+Tienes que traer a dos personas que te den sangre,Apamunayki iskay runata yawar qunasunquipa,dialogo medico,informal,diagnostico
+¿como esta tu pie?,¿Imaynan kashan chakayki?,dialogo medico,informal,sintomas
+¿como esta tu herida?,¿imaynan kashan kiriyki?,dialogo medico,informal,sintomas
+No te agarres tu herida,Ama japiqunkichu kiriykita,dialogo medico,informal,tratamiento
+toma este medicamento dos veces al dia,kay hampita millpunki iskallata punchaypi,dialogo medico,informal,tratamiento
+toma este medicamento a las nueve de la noche,kay hampita millpunki pusaq horatutata,dialogo medico,informal,tratamiento
+toma este medicamento con bastante agua,kay hampita millpunki ashka unupi,dialogo medico,informal,tratamiento
+toma este medicamento despues de cada comida,kay hampita millpunki sapa mikhuna qepata,dialogo medico,informal,tratamiento
+come tu comida a tu hora,mikhunata mikhunki horasnikipi,dialogo medico,informal,prevencion
+Dame tu mano izquierda,lloq'e makiykita apamuy,dialogo medico,informal,sintomas
+no te emborraches mucho,ama nishuta machankichu,dialogo medico,informal,prevencion
+no te hagas pasar frio,ama nishuta chirichikunqichu,dialogo medico,informal,prevencion
+Avisa si te duele algo,willaykunki imayqipas nanaq,dialogo medico,informal,sintomas
+toma todo tu medicamento,tuqunayki llipin hampikita,dialogo medico,informal,tratamiento
+tu pierna esta rota,chakayqi pakisqa kashan,dialogo medico,informal,diagnostico
+Tu pierna tenemos que amputar,Chakayqita kuchusunkiku,dialogo medico,informal,tratamiento
+Paciente presenta fiebre alta y dolor muscular.,"Unqusqaqa sinchi fiebrewan, aycha nanaywan ima riqsichikun",nota clinica,formal,sintomas
+Refiere dolor abdominal persistente y náuseas frecuentes.,Payqa willakun wiksa nanasqanmanta sapa kuti nausea kasqanmantawan,nota clinica,formal,sintomas
+Presenta tos seca persistente desde hace días.,Payqa achka punchawñam mana saqispa ch'aki tosniyuq,nota clinica,formal,sintomas
+Paciente manifiesta fatiga constante y mareos leves.,"Unqusqa willakun sapa kuti sayk'usqa kasqanmanta, llamp'u uma muyusqanmanta ima",nota clinica,formal,sintomas
+Dolor en el pecho al respirar profundamente.,Sinchita samaspa sinqa nanay,nota clinica,formal,sintomas
+Inflamación visible y dolor en articulación.,Rikuna inflamación y articulaciones nanay,nota clinica,formal,sintomas
+Diarrea y vómitos desde la noche anterior.,"Ñawpaq tutamantapacha diarrea, vomito ima",nota clinica,formal,sintomas
+Dolor lumbar después de esfuerzo físico intenso,Sinchi kallpawan wasanpi nanay,nota clinica,formal,sintomas
+Exámenes de laboratorio confirmaron infección bacteriana leve.,Laboratorio pruebakunapiqa llamp'u infección bacteriana kaqta chiqancharqanku,nota clinica,formal,diagnostico
+Análisis clínico detectó anemia moderada en paciente.,Análisis clínico kaqpiqa kay unqusqapi anemia moderada kaqta tarirqa.,nota clinica,formal,diagnostico
+Se confirmó diabetes tras examen de glucosa.,Diabetes onqoyqa glucosa nisqamanta prueba ruwasqanku qhepamanmi cheqaqchasqa karqan.,nota clinica,formal,diagnostico
+Radiografía evidenció fractura leve en antebrazo.,Radiografía nisqapiqa ñawpaq makipi pisilla p'akisqa kasqanmi rikukurqan.,nota clinica,formal,diagnostico
+Resultado positivo para infección urinaria leve.,Resultado positivo kay llamp'u infección urinaria kaqpaq,nota clinica,formal,diagnostico
+Ecografía confirmó presencia de cálculos biliares.,Ultrasonido nisqawanmi chiqapchakurqa rumi biliar nisqakuna kasqanmanta,nota clinica,formal,diagnostico
+Exámenes confirmaron deshidratación leve en paciente,Pruebakuna chiqancharqanku llamp'u deshidratación kaqta unqusqapi,nota clinica,formal,diagnostico
+Se indicó reposo absoluto durante cinco días,Pichqa punchawpaqmi absoluta samayta kamachirqaku,nota clinica,formal,tratamiento
+Se recomendó dieta rica en hierro,Hierroyuq mikhuyta yuyaycharqanku.,nota clinica,formal,tratamiento
+Inició fisioterapia para recuperar movilidad articular.,"Payqa fisioterapia nisqawanmi hampichikuyta qallarirqan, chhaynapi articulacionkunata wakmanta purinanpaq.",nota clinica,formal,tratamiento
+Se indicó hidratación constante y reposo domiciliario.,Sapa kuti hidratacionta hinaspa wasipi samaytapas allinmi karqa.,nota clinica,formal,tratamiento
+Dieta blanda recomendada por tres días,Kimsa punchawpaq llampu mikuy yuyaychasqa,nota clinica,formal,tratamiento
+Inmovilización temporal del brazo afectado.,Inmovilización temporal de la brazo afectado nisqa.,nota clinica,formal,tratamiento
+Reposo domiciliario y líquidos abundantes recomendados.,Wasipi samay hinaspa achka yakukuna recomendasqa,nota clinica,formal,tratamiento
+Tomar paracetamol cada ocho horas por fiebre.,Paracetamol hampita sapa pusaq horamanta upyana fiebrepaq.,nota clinica,formal,tratamiento
+Antibiótico indicado por siete días consecutivos.,Antibiótico nisqa qanchis p'unchaw qatiqninpi rikuchisqa.,nota clinica,formal,tratamiento
+Aplicar crema antiinflamatoria dos veces al día.,P'unchawpi iskay kutita crema antiinflamatoria nisqawan churana.,nota clinica,formal,tratamiento
+Jarabe prescrito para aliviar tos nocturna.,Tuta tos allinyachinapaq kamachisqa jarabe,nota clinica,formal,tratamiento
+Tomar suplemento de hierro en ayunas.,Ch'usaq wiksallapi hierromanta hampita upyana.,nota clinica,formal,tratamiento
+Uso de inhalador según indicación médica.,Doctorpa kamachisqanman hina inhalador nisqawan yanapachikuy,nota clinica,formal,tratamiento
+Antiinflamatorio indicado cada doce horas.,Antiinflamatorio nisqa sapa chunka iskayniyuq horamanta rikuchisqa,nota clinica,formal,tratamiento
+Lavarse las manos antes de cada comida.,Sapa mikhunata manaraq mikhuchkaspa makiykita mayllakuna.,dialogo medico,informal,prevencion
+Consumir agua hervida evita infecciones gastrointestinales,T'impusqa yakuta upyayqa hark'anmi infecciones gastrointestinales nisqakunata,dialogo medico,informal,prevencion
+Evitar cambios bruscos de temperatura corporal.,Ama qunqayllamanta cuerpopa temperaturan cambianachu,dialogo medico,informal,prevencion
+Mantener alimentación balanceada fortalece defensas naturales.,Allin mikhunata hap'iyqa natural defensakunatan kallpachan,dialogo medico,informal,prevencion
+Uso de mascarilla en casos gripales.,Gripe onqoyniyoq kaqtinqa uya mascarakunata utilizay.,dialogo medico,informal,prevencion
+Evitar exposición prolongada a bajas temperaturas.,Ama unayta pisi q'uñipi churaychu,dialogo medico,informal,prevencion
+Realizar actividad física mejora salud cardiovascular.,Aycha kallpaypi llamk'ayqa sunqumanta qhali kayta allinchan,dialogo medico,informal,prevencion
+Recibió vacuna contra influenza sin complicaciones.,Payqa mana sasachakuyniyuq gripe vacunata chaskirqa,nota clinica,formal,vacunacion
+Se aplicó primera dosis del esquema regular.,Kay ñawpaq dosis kay horario regular kaqmanta qusqa karqa,nota clinica,formal,vacunacion
+Recibió refuerzo contra neumonía este mes.,Payka kay killapimi neumonía unquymanta vacuna de refuerzota chaskirqa,nota clinica,formal,vacunacion
+Niño completó esquema obligatorio de vacunación.,Wawa hunt'asqa obligatorio vacunación horario,nota clinica,formal,vacunacion
+Vacuna administrada según calendario nacional vigente,Vacuna qusqa kunan horario nacional nisqaman hina,nota clinica,formal,vacunacion
+Adulto mayor recibió dosis de refuerzo.,Machu runaqa dosis de refuerzo nisqatam chaskirqa,nota clinica,formal,vacunacion
+Se aplicó vacuna contra el VPH.,Kay VPH vacuna kaqta churakurqa.,nota clinica,formal,vacunacion
+Debe regresar a control médico en dos semanas.,Iskay semanamantam kutinayki hampichikunaykipaq,dialogo medico,informal,seguimiento
+Paciente deberá asistir a evaluación mensual.,Unqusqa sapa killa evaluacionman rinan tiyan,nota clinica,formal,seguimiento
+Controlar presión arterial diariamente en casa.,Sapa punchaw wasiykipi yawarpa ñitiyninta qaway.,dialogo medico,informal,seguimiento
+Cita médica programada para revisión general.,Cita médico programasqa general revisión nisqapaq,nota clinica,formal,seguimiento
+Evaluación médica posterior al tratamiento antibiótico.,Antibiótico hampiywan hampichikuy chaninchay,nota clinica,formal,seguimiento
+Control prenatal programado cada cuatro semanas.,Sapa tawa semanamanta prenatal revisakuna programasqa,nota clinica,formal,salud materno-infantil
+Paciente continúa controles periódicos por hipertensión,Unqusqa sapa kuti qhawaykunata ruwan hipertensión kaqpaq,nota clinica,formal,seguimiento
+Me duele la cabeza,Umaymi nanawan,respuesta breve,informal,sintomas
+Me duele el estómago,Wiksaymi nanawan,respuesta breve,informal,sintomas
+Me duele la garganta,Kunkaymi nanawan,respuesta breve,informal,sintomas
+Me duele el pecho,Qasquymi nanawan,respuesta breve,informal,sintomas
+Me duele la espalda,Wasaymi nanawan,respuesta breve,informal,sintomas
+Me duele la rodilla,Muquymi nanawan,respuesta breve,informal,sintomas
+Me duele el oído,Linliymi nanawan,respuesta breve,informal,sintomas
+Me duele el cuerpo entero,Entero cuerpuymi nanawan,respuesta breve,informal,sintomas
+Hasta cuando descanso me duele,Hasta samariptiypas nanawanmi,respuesta breve,informal,sintomas
+Me duele mucho aquí,Llumpaytam nanawan,respuesta breve,informal,sintomas
+Me duele la cabeza,Umaymi nanawan,respuesta breve,informal,sintomas
+Me duele el estómago,Wiksaymi nanawan,respuesta breve,informal,sintomas
+Me duele la garganta,Mallq'a nanawan,respuesta breve,informal,sintomas
+Me duele el pecho,Qhasquymi nanawan,respuesta breve,informal,sintomas
+Me duele la espalda,Wasaymi nanan,respuesta breve,informal,sintomas
+Me duele la rodilla,Qonqoriyqa nanawan,respuesta breve,informal,sintomas
+Me duele el oído,Rinriymi nanawan,respuesta breve,informal,sintomas
+Me duele todo el cuerpo,Tukuy ukhuy nanawan,respuesta breve,informal,sintomas
+Me duele cuando descanso,Samaspayqa nanawan,respuesta breve,informal,sintomas
+Me duele mucho aquí,Kaypin sinchita nanawan,respuesta breve,informal,sintomas
+Tengo fiebre,Ruphaywanmi kashani,respuesta breve,informal,sintomas
+Tengo mareos,Uma muyuwashian,respuesta breve,informal,sintomas
+No tengo hambre,Mana yarqawachkanchu,respuesta breve,informal,sintomas
+Estoy muy cansado,Sinchi sayk'usqa kashani,respuesta breve,informal,sintomas
+No puedo dormir,Mana puñuy atinichu,respuesta breve,informal,sintomas
+Tengo náuseas,Aqtupakuyman kashani,respuesta breve,informal,sintomas
+Estoy vomitando,Aqtushani,respuesta breve,informal,sintomas
+Me duele el brazo,Rikraymi nanawan kachkan,respuesta breve,informal,sintomas
+Me duele la pierna,Chakinmi nanawan,respuesta breve,informal,sintomas
+Me duele la cintura,Chumpimi nanawan kachkan,respuesta breve,informal,sintomas
+Me duele el cuello,Kunkaymi nanawan,respuesta breve,informal,sintomas
+Me duelen los huesos,Tulluykunaymi nanawan,respuesta breve,informal,sintomas
+Me duele al orinar,Ispachiykaqtiymi nanawan,respuesta breve,informal,sintomas
+Me duele la muela,Kiruymi nanawan kachkan,respuesta breve,informal,sintomas
+Me duele la vista,Ñawiymi nanawan,respuesta breve,informal,sintomas
+No puedo caminar,Manam puriytaqa atinichu,respuesta breve,informal,sintomas
+No puedo moverme,Manam kuyuytallaqa atinichu,respuesta breve,informal,sintomas
+Tengo fiebre,Ruphaywan kachkani,respuesta breve,informal,sintomas
+Tengo frío,Chiriywan kachkani,respuesta breve,informal,sintomas
+Tengo calor,Quniywan kachkani,respuesta breve,informal,sintomas
+Estoy mareado,Umayqa muyurichkan,respuesta breve,informal,sintomas
+No tengo hambre,Manam yarqasqachu kachkani,respuesta breve,informal,sintomas
+Estoy muy cansado,Sinchita saqisqa kachkani,respuesta breve,informal,sintomas
+No puedo dormir,Manam puñuytaqa atinichu,respuesta breve,informal,sintomas
+Tengo náuseas,Millay haykuwan,respuesta breve,informal,sintomas
+Estoy vomitando,Lantikachkani,respuesta breve,informal,sintomas
+Tengo diarrea,Chiri ispa kachkan,respuesta breve,informal,sintomas
+Me siento débil,Mana kallpayuq kachkani,respuesta breve,informal,sintomas
+Estoy temblando,Khatatachkani,respuesta breve,informal,sintomas
+Me late fuerte el corazón,Sunquymi sinchita takachkan,respuesta breve,informal,sintomas
+Estoy sudando mucho,Sinchita hunpachkani,respuesta breve,informal,sintomas
+Me siento mal,Mana allin kachkani,respuesta breve,informal,sintomas
+No tengo fuerzas,Manam kallpayniyuqchu kachkani,respuesta breve,informal,sintomas
+Estoy decaído,Urmachisqa kachkani,respuesta breve,informal,sintomas
+Me duele el cuerpo entero,Tukuy kurkuymi nanawan,respuesta breve,informal,sintomas
+Tengo escalofríos,Khatataywan kachkani,respuesta breve,informal,sintomas
+Me siento enfermo,Unqusqa kachkani,respuesta breve,informal,sintomas
+Tengo tos,Uhukachkani,respuesta breve,informal,sintomas
+No puedo respirar bien,Manam allinchu samayni,respuesta breve,informal,sintomas
+Me falta el aire,Samayniyqa pisiyamuchkan,respuesta breve,informal,sintomas
+Tengo gripe,Chiri unquywan kachkani,respuesta breve,informal,sintomas
+Tengo la nariz tapada,Sinqayqa wichqasqa kachkan,respuesta breve,informal,sintomas
+Estoy resfriado,Chiri hapiwasqa kachkani,respuesta breve,informal,sintomas
+Toso con sangre,Yawarwan uhukachkani,respuesta breve,informal,sintomas
+Me duele al respirar,Samaqtiymi nanawan,respuesta breve,informal,sintomas
+Tengo flema,Tuqlluyuq kachkani,respuesta breve,informal,sintomas
+Estornudo mucho,Sinchita achhiykachkani,respuesta breve,informal,sintomas
+Me ahogo,Samaypa chinkachkan,respuesta breve,informal,sintomas
+Tengo el pecho apretado,Qhasquyqa harkasqa kachkan,respuesta breve,informal,sintomas
+Silba mi pecho,Qhasquyqa waqtanchakan,respuesta breve,informal,sintomas
+Respiro con dificultad,Manam allintaqa samaynichu,respuesta breve,informal,sintomas
+Tengo asma,Hukchiy unquywan kachkani,respuesta breve,informal,sintomas
+Estoy embarazada,Wawayuq kachkani,respuesta breve,informal,seguimiento
+Mi bebé está enfermo,Waway unqusqa kachkan,respuesta breve,informal,sintomas
+Mi hijo tiene fiebre,Churiyqa ruphaywan kachkan,respuesta breve,informal,sintomas
+No tengo leche,Manam ñuñuyuqchu kachkani,respuesta breve,informal,seguimiento
+Estoy de cinco meses,Pichqa killanayuqmi kachkani,respuesta breve,informal,seguimiento
+Mi bebé no quiere comer,Wawaymi manam mikhuytaqa munakuchunchu,respuesta breve,informal,sintomas
+Mi hijo llora mucho,Churiyqa sinchita waqan,respuesta breve,informal,sintomas
+Necesito control prenatal,Wawapaq qhawayta munakuni,respuesta breve,informal,seguimiento
+Ya voy a dar a luz,Wawatañam paririsaq,respuesta breve,informal,seguimiento
+Mi bebé tiene diarrea,Wawaymi chiri ispa kachkan,respuesta breve,informal,sintomas
+No puedo amamantar,Manam ñuñuytaqa atinichu,respuesta breve,informal,seguimiento
+Mi leche se secó,Ñuñuyqa chakisqaña kachkan,respuesta breve,informal,seguimiento
+Mi bebé no duerme,Wawaymi manam puñukuchunchu,respuesta breve,informal,sintomas
+Mi hijo no come,Churiyqa manam mikhuchunchu,respuesta breve,informal,sintomas
+Mi bebé tiene tos,Wawaymi uhukachkan,respuesta breve,informal,sintomas
+Necesito vacunar a mi hijo,Churiyta inyaksichiy munakuni,respuesta breve,informal,vacunacion
+Mi hijo está desnutrido,Churiyqa qarullaqa kachkan,respuesta breve,informal,sintomas
+Mi bebé vomita,Wawaymi lantikachkan,respuesta breve,informal,sintomas
+Tengo dolores de parto,Waway paririkuyninta nanawan,respuesta breve,informal,seguimiento
+Mi agua se rompió,Yakuyqa pakirikupun,respuesta breve,informal,seguimiento
+Necesito medicina,Hampita munakuni,respuesta breve,informal,medicacion
+Ya tomé la pastilla,Pastillataña ukhurkuni,respuesta breve,informal,medicacion
+No me hace efecto,Manam yanapawanchu,respuesta breve,informal,medicacion
+Vine para mi control,Qhawanaypaq hamurqani,respuesta breve,informal,seguimiento
+Quiero vacunarme,Inyaksichikuyta munakuni,respuesta breve,informal,vacunacion
+Me duele donde me inyectaron,Inyaksiwan wasiymi nanawan,respuesta breve,informal,vacunacion
+Se me acabó la medicina,Hampiymi tukukapun,respuesta breve,informal,medicacion
+No tengo dinero para medicina,Manam qulqiyuqchu kachkani hampipaq,respuesta breve,informal,medicacion
+Cuándo debo volver,Haykaqtaq kutimuyman,respuesta breve,informal,seguimiento
+Me siento mejor,Allintañam kachkani,respuesta breve,informal,seguimiento
+La medicina me cayó mal,Hampiymi mana allin kapuwan,respuesta breve,informal,medicacion
+Tomé la medicina equivocada,Pantasqa hampita ukhurkuni,respuesta breve,informal,medicacion
+Me recetó el doctor,Hampiymanta qamariwan,respuesta breve,informal,medicacion
+No sé tomar esta medicina,Kay hampita manam yachanichu ukhuyta,respuesta breve,informal,medicacion
+Cuántas pastillas tomo al día,Hayka pastillatataq sapa punchaw ukhurisaq,respuesta breve,informal,medicacion
+Antes o después de comer,Mikhuypa ñawpaqninchu utaq qhipanninchu,respuesta breve,informal,medicacion
+Tengo alergia a este medicamento,Kay hampiman mana allinchu kachkani,respuesta breve,informal,medicacion
+No mejoro con la medicina,Hampiwanqa manam allinchu kachkani,respuesta breve,informal,medicacion
+Necesito otra medicina,Huk hampita munakuni,respuesta breve,informal,medicacion
+Esta medicina es muy cara,Kay hampiqa sinchitam qullqiyuq,respuesta breve,informal,medicacion
+No encuentro esta medicina,Kay hampitaqa manam tarinichu,respuesta breve,informal,medicacion
+Me hace doler el estómago,Wiksayta nanachiwanchkan,respuesta breve,informal,medicacion
+Tomé té de hierbas,Qura tita ukhurkuni,respuesta breve,informal,medicacion
+Necesito inyección,Inyaksiyta munakuni,respuesta breve,informal,medicacion
+Cuánto cuesta la consulta,Haykatataq qhawanapaq pagakuna kachkan,respuesta breve,informal,seguimiento
+Me caí,Urmarikupuni,respuesta breve,informal,sintomas
+Me corté,Khuchukurikupuni,respuesta breve,informal,sintomas
+Me quemé,Ruphaykachakupuni,respuesta breve,informal,sintomas
+Me mordió un perro,Allqum kaniwanchkan,respuesta breve,informal,sintomas
+Me picó un insecto,Chuspim tuqyarqawan,respuesta breve,informal,sintomas
+Estoy sangrando,Yawarmi lluqsichkan,respuesta breve,informal,sintomas
+Me rompí el brazo,Rikriymi pakikupun,respuesta breve,informal,sintomas
+Me torcí el pie,Chakinmi wiqrukupun,respuesta breve,informal,sintomas
+Me atragante,Tunqurmanmi wisq'akupun,respuesta breve,informal,sintomas
+Me desmayé,Wañuyarqani,respuesta breve,informal,sintomas
+Tuve un accidente,Allipa llakikuy kapuwan,respuesta breve,informal,sintomas
+Me golpearon,Waytarqawanku,respuesta breve,informal,sintomas
+Perdí el conocimiento,Yuyayniyta chinkarqani,respuesta breve,informal,sintomas
+No puedo levantarme,Manam hatariytallaqa atinichu,respuesta breve,informal,sintomas
+Llamen a mi familia,Aylluyta waqyariy,respuesta breve,informal,seguimiento
+Quiero hacerme un chequeo,Qhawachiykuyta munakuni,respuesta breve,informal,prevencion
+Necesito análisis de sangre,Yawar qhawariyta munakuni,respuesta breve,informal,diagnostico
+Dónde puedo vacunarme,Maypitaq inyaksichikuyman,respuesta breve,informal,vacunacion
+Quiero prevenir enfermedades,Unquyta harkakuyta munakuni,respuesta breve,informal,prevencion
+Necesito vitaminas,Kallpachaq hampita munakuni,respuesta breve,informal,medicacion
+Cómo me cuido,Imaynatataq waqaychakuyman,respuesta breve,informal,prevencion
+Qué debo comer,Imataq mikhuy kachkan,respuesta breve,informal,prevencion
+Puedo hacer ejercicio,Kallpachiykuytachu atiyman,respuesta breve,informal,prevencion
+Necesito descansar,Samariy munakuni,respuesta breve,informal,tratamiento
+Debo tomar mucha agua,Achkha yakuta ukhuyman kachkan,respuesta breve,informal,prevencion
+Me lavo las manos seguido,Makiytam sapa kuti maqchikuni,respuesta breve,informal,prevencion
+Uso mascarilla,Uyata qataykuyta ruraskani,respuesta breve,informal,prevencion
+Mantengo distancia,Karumanta kachkani,respuesta breve,informal,prevencion
+Ventilo mi casa,Wasitam wayrachini,respuesta breve,informal,prevencion
+Como saludable,Allin mikhuykunata mikhuni,respuesta breve,informal,prevencion
+Desde cuándo me duele,Hayk'aqpachataq nanawasqa,respuesta breve,informal,diagnostico
+Todos los días me duele,Sapa punchaymi nanawan,respuesta breve,informal,diagnostico
+Solo a veces,Sapa kuti kikinchu,respuesta breve,informal,diagnostico
+En las mañanas nomás,Paqarinkunapim,respuesta breve,informal,diagnostico
+Toda la noche,Tukuy tutam,respuesta breve,informal,diagnostico
+Me duele cuando como,Mikhuytiymi nanawan,respuesta breve,informal,diagnostico
+Después de trabajar,Llamkasqamantam,respuesta breve,informal,diagnostico
+Siempre me duele,Sapa kutim nanawan,respuesta breve,informal,diagnostico
+Es nuevo este dolor,Musuqlam kay nanay,respuesta breve,informal,diagnostico
+Ya me dolía antes,Ñawpaqpachatañam nanawasqa,respuesta breve,informal,diagnostico
+"Buenos días, ¿cuál es el motivo de su consulta hoy?","Allin p’unchay, ¿imaraykutaq kunan p’unchay tapusqayki?",dialogo medico,formal,diagnostico
+Siento un dolor muy fuerte en la boca del estómago desde ayer.,Qayna punchawmantapacham wiksaypi ancha sinchi nanawan.,dialogo medico,formal,diagnostico
+¿Ha tenido fiebre o escalofríos durante la última noche?,¿Qhipa tutapi fiebre utaq chiriyuqchu karqanki?,dialogo medico,formal,diagnostico
+Me duele mucho la cabeza y siento que todo me da vueltas.,Umaymi anchata nanawan hinaspam tukuy imapas muyuchkaq hina tarikuni.,dialogo medico,formal,diagnostico
+"Respire profundo mientras escucho sus pulmones, por favor.","Pulmonniykita uyarichkaptiy allinta samay, ama hina kaspa.",dialogo medico,formal,diagnostico
+¿Es usted alérgico a algún medicamento como la penicilina?,"¿Ima hampimanpas alergiayuqchu kanki, ahinataq penicilinaman?",dialogo medico,formal,diagnostico
+Tome esta pastilla cada ocho horas después de los alimentos.,Kay pastillataqa sapa pusaq hora mikhuymanta upyana.,dialogo medico,formal,diagnostico
+¿Desde cuándo siente esa opresión en el lado izquierdo del pecho?,¿Hayk’a tiempon sinqaykiq lloq’e ladonpi kay k’iski kayta sientenki?,dialogo medico,formal,diagnostico
+Necesito que se haga un análisis de sangre y una ecografía.,"Necesitayki yawarmanta prueba ruwanaykita, ultrasonidota ruwanaykita.",dialogo medico,formal,diagnostico
+¿Ha notado alguna mancha o sarpullido extraño en su piel?,¿Repararqankichu aycha qaraykipi mana costumbre kaq manchakunata otaq erupciones nisqakunata?,dialogo medico,formal,diagnostico
+Mi hijo tiene mucha tos y no puede dormir por las noches.,"Wawayqa mana allin tosniyuq, tutapi mana puñuyta atinchu.",dialogo medico,formal,tratamiento
+Vamos a medir su presión arterial para ver si está estable.,"Yawarpa ñit'iyninta tupusaqku, mana kuyuriqchu icha manachu chayta qhawanaykupaq.",dialogo medico,formal,tratamiento
+¿Ha perdido el apetito o el sentido del gusto últimamente?,¿Qhipa watakunapi manaña mikhuyta munankichu nitaq gustotachu munarqanki?,dialogo medico,formal,tratamiento
+Siento una debilidad constante en las piernas al caminar.,Purispayqa sapa kutim chakiypi pisi kallpayachkan.,dialogo medico,formal,tratamiento
+Le voy a recetar un jarabe para calmar esa irritación de garganta.,Chay kunka nanayta thasnunaypaqmi jarabeta kamachisaq.,dialogo medico,formal,tratamiento
+¿Se ha golpeado la rodilla o ha hecho un esfuerzo físico pesado?,¿Qonqoriykita k’irirqankichu icha ima llasa kallpatapas ruwarqanki?,dialogo medico,formal,tratamiento
+"Por favor, recuéstese en la camilla para revisar su abdomen.","Ama hina kaspa, examen mesapi puñuy, chaynapi wiksaykita qawanaykupaq.",dialogo medico,formal,tratamiento
+¿Cuántas veces al día está yendo al baño con diarrea?,¿Hayka kutitataq sapa punchaw bañoman rin diarreawan?,dialogo medico,formal,tratamiento
+Tengo una inflamación en la encía que me impide masticar bien.,"Encía nisqapi inflamación nisqayuqmi kani, chaymi mana allintachu masticayta atini.",dialogo medico,formal,tratamiento
+Es necesario que guarde reposo absoluto por lo menos tres días.,Kimsa p’unchawllapas tukuyninpi samarinayki tiyan.,dialogo medico,formal,tratamiento
+¿Ha tomado algún remedio casero antes de venir al hospital?,¿Manaraq hospitalman hamushaspa wasiykipi hampikunata hap’irqankichu?,dialogo medico,formal,tratamiento
+Me pican mucho los ojos y los tengo muy rojos desde la mañana.,"Ñawiymi anchata picakun, kunan paqarinmantapacham ancha pukayarun.",dialogo medico,formal,tratamiento
+"La herida está sanando bien, pero debemos cambiar las vendas.","K’iriqa allintan qhaliyashan, ichaqa vendakunata cambiananchismi.",dialogo medico,formal,tratamiento
+¿Siente algún hormigueo o adormecimiento en los dedos de las manos?,¿Dedoykipi imapas chukchuytapas otaq llañuyaytachu sientenki?,dialogo medico,formal,tratamiento
+Vamos a programar una cirugía menor para retirar ese quiste.,Chay qusta hurqunapaqmi uchuy operacionta ruwasaqku.,dialogo medico,formal,tratamiento
+¿A qué hora fue la última vez que tomó su medicina para la presión?,¿Ima horapitaq qhipa kutita yawar ñit’iy hampita tomarqanki?,dialogo medico,formal,tratamiento
+"Doctor, me duele la espalda baja cuando intento agacharme.","Doctor, k’umuykukuyta munaspaymi wasanpa uraynin nanawan.",dialogo medico,formal,tratamiento
+Debe beber mucha agua para evitar la deshidratación por el calor.,Ruphaymanta mana yakumanta lluqsinanpaqqa achka yakuta upyanayki tiyan.,dialogo medico,formal,tratamiento
+¿Ha tenido náuseas o ganas de vomitar después de almorzar?,¿Nauseaswanchu sientekurqanki otaq almuerzota mikhuspa vomitayta munarqanki?,dialogo medico,formal,tratamiento
+El resultado de su radiografía muestra una pequeña fisura en el hueso.,Radiografía ruwasqanpin rikukun tullunpi huch’uy raqrakusqan.,dialogo medico,formal,tratamiento
+¿Sufre usted de diabetes o alguna enfermedad del corazón?,¿Diabetes onqoywanchu otaq sonqo kashanki?,dialogo medico,formal,tratamiento
+Me siento muy cansado y sin energía a pesar de dormir mucho.,"Ancha sayk’usqa, mana kallpayoq sientekuni askha puñuspapas.",dialogo medico,formal,tratamiento
+Lávese bien las manos antes de aplicar esta crema en la zona afectada.,Makinchikta allinta mayllakuna manaraq kay cremata unqusqa kaqman churachkaspa.,entrevista,informal,prevencion
+¿En qué comunidad o distrito vive actualmente usted?,¿Mayqin ayllupi utaq distritupitaq kunan tiyanki?,entrevista,informal,prevencion
+¿Alguien más en su familia sufre de los mismos síntomas?,¿Aylluykipi huk runapas chayna sintomakunawan ñakarichkan?,entrevista,informal,prevencion
+¿Cuenta usted con todas las vacunas del calendario nacional?,¿Llapa vacunakunata chaskirqankichu horario nacional nisqapi?,entrevista,informal,prevencion
+¿Qué tipo de alimentos consume con mayor frecuencia en su hogar?,¿Ima clase mikhuykunatataq wasiykipi astawan mikhunki?,entrevista,informal,prevencion
+¿Suele beber agua hervida o agua directamente del puquio?,¿T’impusqa unutachu icha pukyumantallachu unuta ukyanki?,entrevista,informal,prevencion
+¿A qué edad empezaron sus problemas de visión o audición?,¿Ima watayuqmantataq rikuyninkupi utaq uyariyninkupi sasachakuyninku qallarirqa?,entrevista,informal,prevencion
+¿Realiza usted algún tipo de actividad física o trabajo en el campo?,¿Ima clase aychatachu ruwanki icha chakrapi llamk’ankichu?,entrevista,informal,prevencion
+¿Ha viajado recientemente a alguna zona de clima tropical o selva?,¿Chayllaraqchu mayqin tropical utaq yunka clima nisqapipas rirqankichu?,entrevista,informal,prevencion
+¿Cuántas personas viven con usted en su habitación?,¿Hayka runakunataq qamwan kuska tiyanku cuartoykipi?,entrevista,informal,prevencion
+"¿En su casa cocinan con leña, bosta o utilizan cocina a gas?","¿Yanawanchu, wanuwanchu, wasiykipi gas estufawanchu yanukunki?",entrevista,informal,prevencion
+¿Ha recibido información sobre cómo prevenir la anemia en los niños?,¿Chaskirqankichu willakuykunata imaynatas wawakunapi anemia onqoyta hark’akunman chaymanta?,entrevista,informal,prevencion
+¿Cada cuánto tiempo acude al centro de salud para un chequeo?,¿Hayka kutitataq hampina wasiman rinki qawakunaykipaq?,entrevista,informal,prevencion
+¿Tiene alguna mascota o animal de corral dentro de su vivienda?,¿Wasiyki ukupi uywakuna utaq chakra uywakuna kanchu?,entrevista,informal,prevencion
+¿Sabe usted cuál es su tipo de sangre y si tiene alergias?,¿Yachankichu yawarniykipa imayna kasqanmanta hinaspa ima alergiayuq kasqaykitapas?,entrevista,informal,prevencion
+¿Utiliza algún método de planificación familiar en este momento?,¿Kunanqa ima métodotapas planificación familiar nisqawan yanapachikunkichu?,entrevista,informal,prevencion
+¿Alguna vez le han realizado una transfusión de sangre en el pasado?,¿Hayk’aqllapas ñawpaqpi yawarta churarqankichu?,entrevista,informal,prevencion
+¿Cómo es el acceso al agua potable y desagüe en su localidad?,"¿Imaynataq llaqtaykipi upyana yakuman, chuya yakuman haykuy?",entrevista,informal,prevencion
+¿Ha notado cambios en su estado de ánimo o problemas para dormir?,¿Repararqankichu imayna sientekusqayki cambiasqanmanta otaq puñuypi sasachakuykuna kasqanmanta?,entrevista,informal,prevencion
+¿Fuma cigarrillos o consume bebidas alcohólicas frecuentemente?,¿Cigarrotu pitanki otaq sapa kuti machayta tomanki?,entrevista,informal,prevencion
+¿Qué medicamentos suele tener en su botiquín de emergencia?,¿Ima hampikunatan sapa kutilla primeros auxilios nisqapi churanki?,entrevista,informal,prevencion
+¿A qué se dedica laboralmente y cuántas horas trabaja al día?,"¿Ima llamk’ayniykitaq, hayk’a horatataq sapa p’unchaw llamk’anki?",entrevista,informal,prevencion
+¿Ha tenido alguna complicación seria durante sus embarazos anteriores?,¿Ñawpaq wiksayakusqaykipi ima hatun sasachakuykunatapas tarirqankichu?,entrevista,informal,prevencion
+¿Sabe cómo actuar en caso de una picadura de insecto venenoso?,¿Yachankichu venenoyuq kurukuna kanikuptin imayna ruwayta?,entrevista,informal,prevencion
+¿Ha recibido la charla informativa sobre la importancia de la lactancia?,¿Chaskirqankichu chay willakuy rimayta ñuñuchiy ancha allin kasqanmanta?,entrevista,informal,prevencion
+¿Cuál es su peso y talla aproximada según su último control?,"¿Imaynataq yaqa llasayniyki, sayayniykitaq qhipa qhawayniykimanjina?",entrevista,informal,prevencion
+¿Siente que el clima de la región afecta su salud respiratoria?,¿Qanpa yuyayniykipiqa chay regionpa climan respiratorio saludniykita afectanchu?,entrevista,informal,prevencion
+¿Ha tenido contacto con personas que tengan tuberculosis o tos fuerte?,¿Tuberculosis onqoyniyoq otaq sinchi tosniyoq runakunawan tuparqankichu?,entrevista,informal,prevencion
+¿Cómo manejan los residuos sólidos y la basura en su comunidad?,"¿Imaynatataq llaqtaykipi residuos sólidos nisqakunata, basurakunatapas kamachinki?",entrevista,informal,prevencion
+¿Cuenta con algún seguro de salud como el SIS para atenderse?,¿Seguro de saludniyuqchu kanki kayhina SIS hampi necesidadniykikunata hunt’anaykipaq?,entrevista,informal,prevencion
+¿Ha notado bultos extraños en su cuerpo durante el último mes?,¿Repararqankichu kay pasaq killapi cuerpoykipi ima mana costumbre kaq t’urukuna kasqanmanta?,entrevista,informal,prevencion
+¿Qué tan lejos queda el puesto de salud más cercano a su casa?,¿Hayka karutaq wasiykimanta aswan hichpallapi kaq hampina wasi?,entrevista,informal,prevencion
+¿Entiende usted las instrucciones que le da el personal médico?,¿Entiendenkichu hampiqkunapa kamachikuyninkunata?,entrevista,informal,prevencion
+¿Desea que algún familiar lo acompañe durante la consulta de hoy?,¿Munawaqchu kunan p’unchay citaykipi huk familiayki compañananta?,lectura,formal,prevencion
+Es fundamental lavarse las manos con agua y jabón antes de comer.,Manaraq mikhuchkaspa makinchikta jabonwan yakuwan mayllakuyqa ancha allinmi.,lectura,formal,prevencion
+La vacunación es la mejor forma de proteger a nuestros hijos de enfermedades.,Vacunacionqa aswan allinmi warmanchikkunata unquykunamanta harkanapaq.,lectura,formal,prevencion
+El consumo excesivo de sal y azúcar puede dañar gravemente su salud.,"Kachita, azúcar nisqatapas nishuta mikhuyqa sinchitan qhali kayniykita dañanman.",lectura,C:\Users\CHRISTIAN\Documents\Grabaciones,prevencion
+Mantenga los medicamentos fuera del alcance de los niños pequeños.,Huch’uy wawakunaq mana aypananpaq hampikunata waqaychay.,lectura,formal,prevencion
+La anemia se previene consumiendo alimentos ricos en hierro como la sangrecita.,"Anemia unquytaqa hark’akunmanmi hierroyuq mikhuykunata mikhuspa, ahinataq yawar salchichata.",lectura,formal,prevencion
+Use mosquiteros si vive en zonas donde hay presencia de zancudos.,Sisikuna kasqan cheqaskunapi tiyaspaqa ch’uspi llikata apaykachana.,lectura,formal,prevencion
+Es importante hervir el agua durante al menos cinco minutos antes de beberla.,Importantemi yakuta manaraq upyachkaspa pichqa minutollapas timpuchiy.,lectura,formal,prevencion
+El chequeo preventivo anual ayuda a detectar enfermedades a tiempo.,Watamanta wata qhawayqa yanapanmi unquykunata temprano riqsiyta.,lectura,formal,prevencion
+"No se automedique, siempre consulte con un profesional de la salud.",Ama kikiykita hampikuychu; sapa kuti huk profesional de salud nisqawan tapukuy.,lectura,formal,prevencion
+La salud mental es tan importante como la salud física para el bienestar.,"Yuyaypi qhali kayqa ancha allinmi, aycha qhali kay hina allin kawsaypaq.",lectura,formal,prevencion
+Limpie frecuentemente las superficies de contacto en su cocina y baño.,Sapa kuti pichay sapa kuti llamisqa hawakunata cocinaykipi hinaspa bañoykipi.,lectura,formal,prevencion
+"Durante el embarazo, acuda a todos sus controles prenatales sin falta.","Wiksayuq kachkaspaqa, manaraq nacechkaspa tukuy citaykikunaman riy, mana pantaspa.",lectura,formal,prevencion
+El ejercicio diario mejora la circulación y fortalece el corazón.,Sapa punchaw ejercicio ruwayqa allintam yawar purinanpaq yanapan hinaspa sunqunchikta kallpanchan.,lectura,formal,prevencion
+Proteja su piel de la radiación solar usando sombrero y bloqueador.,"Intimanta qaranta hark’ay, sombrerowan, intimanta hark’akuqwan ima.",lectura,formal,prevencion
+"Una dieta balanceada debe incluir frutas, verduras y menestras.","Allin mikhuypiqa frutakuna, verdurakuna, legumbrekuna ima kanan.",lectura,formal,prevencion
+Cubra su boca con el antebrazo al toser o estornudar para no contagiar.,"Tos utaq estornudo kachkaspa simiykita ñawpaq makiwan tapay, mana germenkuna mastarikunanpaq.",lectura,formal,prevencion
+El dengue se transmite por la picadura de un mosquito infectado.,Dengue unquyqa unquyniyuq ch’uspip kanisqanwanmi chayan.,lectura,formal,prevencion
+Evite acumular agua en recipientes abiertos donde puedan nacer larvas.,Ama yakuta huñunachu kichasqa mankakunapi maypichus larvakuna lluqsiyta atinku.,lectura,formal,prevencion
+"Si tiene una emergencia, llame inmediatamente al número de la ambulancia.",Ima sasachakuypas kaptinqa chaylla ambulanciata qayay.,lectura,formal,prevencion
+La lactancia materna exclusiva es vital durante los primeros seis meses.,Ñawpaq soqta killakunapiqa ancha allinmi sapallan ñuñuchiyqa.,lectura,formal,prevencion
+Acuda al dentista dos veces al año para prevenir las caries dentales.,"Watapi iskay kutita kiru hampiqman watukuy, kirukuna mana ismunanpaq.",lectura,formal,prevencion
+Ventile las habitaciones de su casa para permitir la entrada de aire puro.,"Wasiykipi cuartokunata wayrawan yayachiy, chaynapi sumaq wayra yaykumunanpaq.",lectura,formal,prevencion
+Siga exactamente las dosis indicadas por el médico en su receta.,Dosiskunata qatipay doctorpa nisqanman hinapuni.,lectura,formal,prevencion
+El estrés constante puede causar dolores musculares y migrañas.,"Sapa kuti estrés nisqapiqa aycha nanaymi, migrañapas.",lectura,formal,prevencion
+El consumo de tabaco aumenta el riesgo de padecer cáncer de pulmón.,Tabacota ukyayqa pulmonmanta cáncer onqoytan astawan yapan.,lectura,formal,prevencion
+Verifique siempre la fecha de vencimiento de sus medicinas.,Sapa kuti qhaway hampikunayki p’unchay tukukuyninta.,lectura,formal,prevencion
+Realice ejercicios de estiramiento si trabaja muchas horas sentado.,Unay tiempo tiyaspaqa ejercicios de estiramiento nisqakunata ruway.,lectura,formal,prevencion
+La desnutrición infantil afecta el desarrollo cerebral de los menores.,Wawakunapa mana allin mikusqankuqa warmakunapa uma wiñaynintam sasachan.,lectura,formal,prevencion
+Use ropa abrigadora durante la temporada de heladas y friaje.,Chiri ruphaypi q’uñi p’achawan churakuy.,lectura,formal,prevencion
+Informe al doctor si siente algún efecto secundario por el tratamiento.,Doctorniykiman willay sichus hampichikuymanta ima efectos secundarios kaqtapas rikunki chayqa.,lectura,formal,prevencion
+Mantenga su carnet de vacunación en un lugar seguro y accesible.,Vacunación registroykita waqaychay huk allin chaymanta mana sasachakuspalla chayanapaq sitiopi.,lectura,formal,prevencion
+El lavado de dientes debe realizarse después de cada comida principal.,Sapa hatun mikhuy tukukuptin kiruykikunata maqchiy.,lectura,formal,prevencion
+Evite el contacto directo con personas que presenten síntomas de gripe.,Ama gripeman rikch’akuq sintomakunayuq runakunawanqa allinta tupaychu.,lectura,formal,prevencion
+Una comunidad informada es una comunidad más saludable y fuerte.,"Willasqa ayllu llaqtaqa aswan qhali, aswan kallpasapa ayllu llaqtam.",lectura,formal,prevencion
+Siente algún dolor punzante al mover el brazo derecho?,¿Paña makiykita kuyuchispa ima sinchi nanaytapas sientenkichu?,lectura,formal,prevencion
+Me duele mucho la muela y tengo la cara un poco hinchada.,"Kiruymi anchata nanawan, uyaypas pisillatam punkirun.",lectura,formal,prevencion
+El bebé ha estado llorando mucho y tiene la barriga dura.,"Wawaqa anchata waqasqa, sinchi wiksayuq.",lectura,formal,prevencion
+¿Ha notado si su orina tiene un color más oscuro de lo normal?,¿Repararqankichu urinayki sapa kutimanta aswan yana kaptin?,lectura,formal,diagnostico
+Tome este jarabe de hierbas solo si la tos persiste por la noche.,Kay qura jarabetaqa tutapi tos mana chinkaptinlla upyana.,lectura,formal,diagnostico
+"Doctor, siento que me falta el aire cuando subo las escaleras.","Doctor, escaleraman wichaspayqa pisi samayniyuqmi tarikuni.",lectura,formal,diagnostico
+¿Se ha puesto la vacuna contra la influenza este año?,¿Kay wata gripe vacunata hap’irqankichu?,lectura,formal,diagnostico
+"Por favor, abra la boca y diga ""ah"" para revisar sus amígdalas.","Ama hina kaspa, simiykita kichaspa ""ah"" niy, chaynapi amígdalas nisqaykikunata qawanaypaq.",lectura,formal,diagnostico
+¿Siente que el dolor se desplaza hacia su espalda o se queda aquí?,¿Wasanmanchu nanayqa kuyuchkanman hinachu icha kaypichu qipanman?,lectura,formal,diagnostico
+Necesito que guarde reposo y no levante objetos pesados por una semana.,"Necesitayki samarinaykita, manataq llasa kaqkunata huk semanata hoqarinaykita.",lectura,formal,diagnostico
+¿Ha tenido mareos después de tomar el medicamento que le receté?,¿Qanchu umayki muyurirqanki kamachisqay hampita tomaspayki?,lectura,formal,diagnostico
+"La presión está un poco alta, vamos a esperar diez minutos y medirla de nuevo.",Yawar ñit’iyniykiqa pisillatan yapakun; chunka minututa suyaspa hukmanta hap'isunchik.,lectura,formal,diagnostico
+¿Ha usado alguna pomada o crema antes de venir a la consulta?,¿Manaraq citaman hamushaspa ima pomadatapas otaq crematapas utilizarqankichu?,lectura,formal,diagnostico
+Siento un ardor constante en la garganta después de comer.,Mikhusqay qhepamanmi sapa kutilla kunkaypi ruphachiwan.,lectura,formal,diagnostico
+Vamos a limpiar esta herida con suero fisiológico para evitar infecciones.,Kay k’iritaqa salina solucionwanmi pichasaqku mana infección kananpaq.,lectura,formal,diagnostico
+¿Cuántas horas ha dormido usted en promedio esta última semana?,¿Hayka horatataq kay pasaq semanapi promediopi puñurqanki?,lectura,formal,diagnostico
+Mi hija tiene unas manchitas rojas detrás de las orejas.,Ususiyqa rinrinpa qhipanpi wakin puka ch’iqchiyuq.,lectura,formal,diagnostico
+¿Es la primera vez que siente este tipo de malestar estomacal?,¿Kaychu ñawpaq kuti kayhina wiksa nanayniyuq kanki?,lectura,formal,diagnostico
+Debe terminar todo el tratamiento de antibióticos aunque ya se sienta mejor.,Antibióticos nisqawan tukuy kursuta tukunayki tiyan allinña sientekunki chaypas.,lectura,formal,diagnostico
+¿Ha tenido algún problema para ver de lejos o nota la vista nublada?,¿Ima sasachakuypas karqanchu karuta rikuspa otaq mana allintachu rikusqaykita?,lectura,formal,diagnostico
+"Por favor, relaje los hombros para poder examinar su columna.","Ama hina kaspa, hombroykikunata samachiy, chaynapi columna vertebralnikita qawanaykupaq.",lectura,formal,diagnostico
+¿Siente alguna molestia al pasar los alimentos o solo cuando bebe agua?,¿Ima mana allinpas sientekunkichu mikhunata millp’uspa otaq unuta ukyaspalla?,lectura,formal,diagnostico
+Le voy a dar una orden para que se tome una radiografía de tórax.,Huk pedidota qusqayki radiografía de pecho ruwanaykipaq.,lectura,formal,diagnostico
+¿Ha tenido fiebre superior a los treinta y ocho grados hoy?,¿Kunan punchaw 38 grados Celsiusmanta aswan hatun fiebreyuqchu kanki?,lectura,formal,diagnostico
+¿Cuál es el nombre de la comunidad donde nació usted?,¿Ima sutitaq maypi paqarisqayki ayllu?,entrevista,formal,diagnostico
+¿Sabe si sus padres sufrieron de enfermedades del corazón o pulmón?,¿Yachankichu tayta-mamayki sonqo onqoywan otaq pulmonwan onqosqa kasqankuta?,entrevista,formal,diagnostico
+¿Qué tipo de animales crían en su hogar para el consumo propio?,¿Imayna uywakunatataq wasiykipi uywanki kikiykipa mikunaykipaq?,entrevista,formal,diagnostico
+¿A qué distancia se encuentra el río o manantial más cercano?,¿Hayka karutaq aswan qaylla mayu utaq pukyu?,entrevista,formal,diagnostico
+¿Ha trabajado alguna vez en minas o lugares con mucho polvo?,¿Hayk’aqllapas llank’arqankichu minakunapi otaq ñut’u allpakunapi?,entrevista,formal,diagnostico
+¿Utiliza usted plantas medicinales para calmar los dolores de cabeza?,¿Hampi yurakunatachu uma nanayta pisiyachinki?,entrevista,formal,diagnostico
+¿Desde cuándo presenta estos síntomas y con qué intensidad comenzaron?,"¿Hayk’a unayñan kay sintomakunata rikunki, qallariqtintaq hayk’a sinchi karqan?",entrevista,formal,diagnostico
+¿Es alérgico a algún medicamento o alimento?,¿Ima hampikunamanpas otaq ima mikhuykunamanpas alergiayoqchu kanki?,entrevista,formal,diagnostico
+Necesitamos tomarle una muestra de sangre para realizar los análisis correspondientes.,Yawarta hurqunanchikmi pruebapaq.,entrevista,formal,diagnostico
+¿Ha tenido cirugías previas o alguna hospitalización reciente?,¿Ñawpaqpi operachikurqankichu otaq chayllaraq hospitalman yaykuchirqankichu?,entrevista,formal,diagnostico
+"Por favor, mantenga el brazo extendido mientras le colocamos la inyección.","Ama hina kaspa, makiykita mast’ariy inyecciónta quchkaptiyku.",entrevista,formal,diagnostico
+¿Está tomando actualmente algún tratamiento médico?,¿Kunanqa ima hampitapas upyachkanki?,entrevista,formal,diagnostico
+Es importante que permanezca en ayunas antes del examen.,Importantemi manaraq prueba kashaqtin ayunay.,entrevista,formal,diagnostico
+Vamos a monitorear sus signos vitales durante las próximas horas.,Qatiqnin horakunapim qawasaqku señales vitales nisqaykikunata.,entrevista,formal,diagnostico
+"Si el dolor aumenta, avise inmediatamente al personal de enfermería.","Sichus nanay yapakun chayqa, ama hina kaspa enfermerakunaman willay chaylla.",entrevista,formal,diagnostico
+Debe programar una cita de control dentro de quince días.,Iskay semanamantam qatipanaykipaq cita ruwanayki.,entrevista,formal,diagnostico
+"Buenos días Doctor, vengo porque me siento muy mal desde hace varios días","Allin punchay , hampiq ashkay punchawkunaña mana allinchu Kani ,chayraykun hamuni",desconocido,desconocido,desconocido
+"Buenas tardes Doctor, mi nombre es María y tengo una cita programada","doktura, noqaq sutiymi María,chaymanta huk  cita programasqaymi kani",desconocido,desconocido,desconocido
+"Hola Doctor, disculpe la demora pero tuve problemas para llegar","Allin p'unchay doktura .Pampachaykuway qhipasqa hamusqayta, chaymi sasachakuykuna karqan chayamunaypaq",desconocido,desconocido,desconocido
+"Doctor, muchas gracias por atenderme en este horario","Doktur, anchata yupaychani Kay pachapi atiwaqkita",desconocido,desconocido,desconocido
+"Doctor, vengo referida por el médico del centro de salud de mi comunidad",Doktura aylluy postamanta hampiqpa apachisqanmi hamuni,desconocido,desconocido,desconocido
+"Buenos días, necesito que me examine porque tengo varios síntomas preocupantes","Allin p'unchay,qanta mañakuni nuqata qhawaykita,achka unquykunan kani chaymi llakikuywan  kashani",desconocido,desconocido,desconocido
+"Buenas tardes Doctor, he venido a recoger los resultados de mis análisis","Allin sukha,doctur.noqaqa qhawaypa kutichisqankunata hap'ichiq hamurqani",desconocido,desconocido,desconocido
+"Doctor, me han dicho que usted es especialista en este tipo de problemas","Doktur, nirqankuqa qanmi Kay hina sasachakuykunapi yachaq kanki",desconocido,desconocido,desconocido
+"Doctor, esta es mi primera vez en este centro médico","Doktura ,kayqa ñuqapa huk kutiñan  Kay hampina wasiman hamuni",desconocido,desconocido,desconocido
+"Buenos días, vengo acompañando a mi madre que no se siente bien","Allin p'unchay, mamayta yanapaykuspa hamuni,payqa mana allinchu kashan",desconocido,desconocido,desconocido
+"Doctor, me duele mucho la cabeza desde hace tres días y no se me quita","Doktor ,kinsa p'unchaymanta pacha umayqa anchata nanaykuwashan manan Chay nanayqa chinkanchu",desconocido,desconocido,desconocido
+Tengo un dolor muy fuerte en el estómago que aparece después de comer,Mikhuyta tukuruspan wiksayqa anchata nanaykuhuan,desconocido,desconocido,desconocido
+Me duele el pecho cuando respiro profundo o cuando me muevo,Sumaqta samaykuyta hap'irqaptin utaq kuyiriktin sunquy nanaykuwan,desconocido,desconocido,desconocido
+Siento un dolor punzante en la espalda baja que no me deja dormir,"Qhipa uranpi nanayqa t'iksichkallañam kashan ,chaymi puñuyta mana saqiwanchu",desconocido,desconocido,desconocido
+"Doctor, el dolor en mis rodillas ha empeorado con el frío",Doktor chiriwan ñuqaq muqoykunapi nanayqa  astawanmi nanaykushan,desconocido,desconocido,desconocido
+Tengo dolores musculares en todo el cuerpo y me siento muy débil,Llapa cuerpoypi aychay nanaykushan anchata waqlla kashani,desconocido,desconocido,desconocido
+Me duele mucho la garganta al tragar y tengo la voz ronca,"Mikuyta millp'uchkaptin sunquykuna manaqa anchata nanaykuhuan ,hinallataq  rimayniyqa q'ipim kashan ",desconocido,desconocido,desconocido
+Siento un dolor agudo en el costado derecho que viene y se va,Paña ladunpin nanayqa t'iksichkallañan  hamuni chaymanta ripun,desconocido,desconocido,desconocido
+"Doctor, me duelen los oídos y siento presión en la cabeza","Doktur ,rinrikuna nanaykuwashan, umaypiqa ñit'iyta hina rikch""akun",desconocido,desconocido,desconocido
+Tengo un dolor constante en el cuello que se extiende hasta los hombros,Kunkaypi nanayqa Sapa kutin kashan Chay nanayqa rikra kamallan chayamun,desconocido,desconocido,desconocido
+Me duele mucho una muela y tengo la cara hinchada de ese lado,"Huk kiruymi anchata nanawan, Chay  uyayqa punkisqa kashan ",desconocido,desconocido,desconocido
+Siento ardor y dolor al orinar desde hace dos días,"Iskay p'unchaymantaña ,ismutay ruwaspa nina hina q'alaqmi,anchata nanawan.",desconocido,desconocido,desconocido
+"Doctor, tengo calambres muy fuertes en las piernas por las noches","Doktur ,tutakunapi chakiykunapi anchata kallpa tiksichkallañan nanawan",desconocido,desconocido,desconocido
+Me duele el abdomen del lado izquierdo y también tengo náuseas,"Lluq'i llaqtaymata. Wiksay anchata nanawan, hinallataq sonqo muyuywan kashani",desconocido,desconocido,desconocido
+Siento un dolor punzante detrás de los ojos que empeora con la luz,Ñawikuna qhipanpi T'iksiy hina anchata nanawan K'anchaywanqa Aswan kalpachkanmi,desconocido,desconocido,desconocido
+"Doctor, me duelen todas las articulaciones cuando me levanto por la mañana",Doktura paqarinanpi sayarispa llapan tulluykuna anchata nanawan,desconocido,desconocido,desconocido
+Tengo un dolor muy intenso en el talón que no me deja caminar bien,"Chakipa t'iqrinpi anchata kallpa nanaymi kashan , Allin puriyta mana atiniychu",desconocido,desconocido,desconocido
+Me duele el brazo derecho y siento hormigueo en los dedos,"Allin makiypi ancha nanaymi, hinallataq ruk'anakunapi kiskichkallañam",desconocido,desconocido,desconocido
+Siento presión y dolor en el pecho que me asusta mucho,"Ñuqaqa sunquypa t'iqrinpi ñit'iyta hina apretaymi  , hinallataq anchata manchachiwan",desconocido,desconocido,desconocido
+"Doctor, tengo dolor de muelas que no me deja comer ni dormir","Doktor kiruymi ancha nanaymi, mana Mikuyta ni puñuyta atiniychu",desconocido,desconocido,desconocido
+Me duele la parte baja del abdomen y también tengo fiebre,"Wiksaypi uraypi ancha nanaymi, hinallataq K'anchaywanqa kashan",desconocido,desconocido,desconocido
+Siento un dolor sordo en la zona del hígado que me preocupa,Ñuqapa hígado kaq patapi  pisi pisi nanay manchaciwashan,desconocido,desconocido,desconocido
+"Doctor, me duelen los huesos como si tuviera gripe",Doktur Llapa tulluykuna nanawan gripe hina nanaywan,desconocido,desconocido,desconocido
+Tengo un dolor pulsátil en la sien derecha que dura horas,"Paña sienapi t'iksichkallañan nanay kashan, horakunata mana tukuchispa",desconocido,desconocido,desconocido
+Me duele el estómago y siento que me arde por dentro,"Wiksay nanawan,ukhuypi nina hina ruphayta sientikuni ",desconocido,desconocido,desconocido
+"Doctor, tengo fiebre alta desde anoche y no me baja con nada","Doktur tutamanta Aswan ruphaywan kashani,imaywanpas mana uraykinchu",desconocido,desconocido,desconocido
+Me siento muy débil y cansado aunque descanse todo el día,"Ancha pisi kallpayuqmi kani,llapan p'unchaymantaña samaqtiypas",desconocido,desconocido,desconocido
+Tengo escalofríos y sudores nocturnos que me despiertan,Chiri chiriwanmi kani tutaqa ñaq'achkani ch'iqchiwan chaymi puñuyniyta p'a dekichin,desconocido,desconocido,desconocido
+"Doctor, mi temperatura sube y baja constantemente durante el día","Doktur, p'unchaypi  ruphayniyqa wicharin hinaspa uraykun Sapa kutin ",desconocido,desconocido,desconocido
+Me siento mareado y con náuseas casi todo el tiempo,"Umayqa muyunmi , hinallataq millay onqoyniywanmi kani Aswan p'unchaykama",desconocido,desconocido,desconocido
+Tengo mucha fiebre acompañada de dolor de cuerpo,Anchata ruphayniyuqmi kani aychayqa nanayshanmi,desconocido,desconocido,desconocido
+"Doctor, sudo mucho por las noches y amanezco con la ropa empapada",Duktur tutapi anchata unp'ni paqarinnita p'achayqa llapan uno hina kashan,desconocido,desconocido,desconocido
+Me siento muy cansado y sin energía para hacer mis actividades diarias,"Anchata sayk'usqallaña kani,mana kallpayuqmi kani Sapa p'unchay ruwanaykunapaq",desconocido,desconocido,desconocido
+Tengo la sensación de que me voy a desmayar cuando me pongo de pie,Sayarispa desmayayman hina  yuyaymi kani,desconocido,desconocido,desconocido
+"Doctor, siento que todo me da vueltas y pierdo el equilibrio","Doktur llapallan muyunmi hina rikch'akun, hinaspa equilibrioyta chinkashan",desconocido,desconocido,desconocido
+Tengo temblores en el cuerpo y me siento muy débil,Aychaypi ch'iqchiyuqmi Kana hinaspa Anchata pisi Kallpayuqmi kani,desconocido,desconocido,desconocido
+Me siento confundido y con dificultad para concentrarme,"Yuyayniqa pantaychasqami kashan, mana allinta yuyayman churakuyta atishanichu",desconocido,desconocido,desconocido
+"Doctor, tengo náuseas constantes y he vomitado varias veces","Doktur Sapa kuti millay onqoyniyuqmi kani,askha kutita q'ipiykuni",desconocido,desconocido,desconocido
+Siento que me falta el aire incluso cuando estoy en reposo,"Samayniyqa pisi kanman hina yuyaymi kani, samashaqtipas",desconocido,desconocido,desconocido
+Tengo palpitaciones fuertes que me asustan mucho,"Sonqoymi  sinchita takin ,chaymi anchata mancharichiwan",desconocido,desconocido,desconocido
+"Doctor, me siento ansioso y con miedo sin razón aparente","Doktur, imay raykucha hukman mancharisqan kashani.",desconocido,desconocido,desconocido
+Tengo problemas para dormir y me despierto muchas veces en la noche,"Sasatan puñuyta atini, tutatakmi sapa kuti rikcharini",desconocido,desconocido,desconocido
+Me siento hinchado y pesado después de cada comida,Sapa mijuktiymi p'unkisqa llasasqa wiksay kan.,desconocido,desconocido,desconocido
+"Doctor, he perdido el apetito completamente en las últimas semanas","Doktur, manan mijunayawanchu kay qepa semanakunapi",desconocido,desconocido,desconocido
+Siento que mi corazón late muy rápido o se salta latidos,Sonqoypas kuyurin supayta otaq phawan kuyurispa,desconocido,desconocido,desconocido
+"Doctor, tengo mucha tos con flema amarilla desde hace una semana","Doktur, huk semanañan supay qellu flemayoj ujuyan kani.",desconocido,desconocido,desconocido
+Me falta el aire cuando subo escaleras o hago esfuerzos pequeños,"Escalerata seqaytimi mana samayniyuq kani, otaq kallpachakuni chikanta.",desconocido,desconocido,desconocido
+Tengo tos seca que me irrita mucho la garganta,"Ch'aki ujuwanmi kani, tonqorniytaq q'arawan supayta.",desconocido,desconocido,desconocido
+"Doctor, respiro con dificultad y escucho silbidos en mi pecho","Doktur, sasatan samayniy lloksimun, hinataq qasqoypis silvarin.",desconocido,desconocido,desconocido
+Tengo congestión nasal severa que no me deja respirar bien,"Senqaypi qoña hunt'ayuq kani, chaymi hark'awashan allinta samayta.",desconocido,desconocido,desconocido
+Me duele el pecho cuando toso y la tos es muy persistente,"Qasqoymi nanawan ujuktiy, ujuypas sinchi mana tukukuq.",desconocido,desconocido,desconocido
+"Doctor, toso sangre en pequeñas cantidades y estoy muy preocupado","Doktur, pisi yawarta ujushani chaymi ancha llakisqa kashani.",desconocido,desconocido,desconocido
+Tengo mucha flema que no puedo expulsar fácilmente,Achka flemayukmi kani manataqmi chaytaqa qarkuyta atinichu.,desconocido,desconocido,desconocido
+Siento opresión en el pecho y dificultad para respirar hondo,"Qasqoymi ñit'ywan, chaytaqmi sasatan samaytapas atini.",desconocido,desconocido,desconocido
+"Doctor, tengo tos que empeora por las noches y no me deja dormir","Doktur,ujuwanmi kani chaymi tuta ashwanta yapakun mana puñuchiwaspa.",desconocido,desconocido,desconocido
+Me ahogo fácilmente y tengo que parar constantemente para respirar,"Faciltan samayniy chinkapun, samanaypaqtaqmi sayani sapa kutilla",desconocido,desconocido,desconocido
+Tengo la nariz tapada y dolor en los pómulos y frente,"Senqaymi wichqasqa, uyaypas mat'iypas nanawanmi.",desconocido,desconocido,desconocido
+"Doctor, escucho ruidos raros cuando respiro profundo","Doktur, allinta samaykuqtiymi mana riqsisqa qapariykunata uyarini.",desconocido,desconocido,desconocido
+Tengo secreción nasal verde y mal olor en la nariz,Qomer qoña  senqaypi kan chaytaqmi millayta asnan.,desconocido,desconocido,desconocido
+Me cuesta mucho respirar cuando estoy acostado,Puñuspa kaspayqa anchatan kallpachakuni samykunaypaq,desconocido,desconocido,desconocido
+"Doctor, tengo diarrea desde hace tres días y me siento muy débil","Doktur, kimsa p'unchayñan q'echawan kashani, mana kallpaypas kanñachu.",desconocido,desconocido,desconocido
+Sufro de estreñimiento severo y me duele cuando voy al baño,Ñisuta ñaqarini akakunaypaq chaytaq nanawan hisp'akuy riktiy.,desconocido,desconocido,desconocido
+Tengo acidez estomacal que sube hasta la garganta,"Wiksa nanayniyuqmi kani, chaymi kunkaykama wicharin.",desconocido,desconocido,desconocido
+"Doctor, vomito todo lo que como y tengo el estómago revuelto","Doktur, llapa mijusqaytan kutichimuni, chaymi wiksaypas tiqrakun.",desconocido,desconocido,desconocido
+Tengo gases excesivos y hinchazón abdominal muy molesta,"Wiksaymi p'unkin ñisuta, supinayawanmi anchata.",desconocido,desconocido,desconocido
+Me sale sangre cuando voy al baño y estoy muy preocupado,"Hisp'aq riqtiymi, yawar lloqsimun, chaymi ancha llakisqa kashani.",desconocido,desconocido,desconocido
+"Doctor, tengo náuseas constantes especialmente por las mañanas","Doktur, sapa achijaymi sonqomuyuywan kani.",desconocido,desconocido,desconocido
+Siento que la comida se me queda atorada en el pecho,"Mijuna mijusqaymi, qasqoy uhullapi tarikun.",desconocido,desconocido,desconocido
+Tengo mucha sed todo el tiempo y la boca muy seca,"Anchatan ch'akiwan sapakuti, chaymantapas simiy ch'akillaña",desconocido,desconocido,desconocido
+"Doctor, he notado que mis heces son muy oscuras o negras","Doktur, hatun hispayta ruwaqtiymi , ñisu yanallaña lloqsimun",desconocido,desconocido,desconocido
+Tengo cólicos intestinales muy fuertes que aparecen de repente,Sinchitan ch'unchilniykuna nanan nanan qonqayllamanta rijurin,desconocido,desconocido,desconocido
+Me duele el estómago y tengo eructos constantes con mal sabor,"wiksaymi nanawan, qapapakuni asnallataña sapa kuti.",desconocido,desconocido,desconocido
+"Doctor, tengo la lengua blanca y mal aliento persistente","Doktur, qalluypas yuraqllañan asnallañataq",desconocido,desconocido,desconocido
+Siento ardor en la boca del estómago después de cada comida,Wiqsay q'uchupin sinchita rup'an sapa mijuyta tukuqtiy,desconocido,desconocido,desconocido
+Tengo dificultad para tragar incluso líquidos,Sasatan  millp'uni unutapis,desconocido,desconocido,desconocido
+"Doctor, he perdido mucho peso sin hacer dieta ni ejercicio","Doktur, sinchitan tulluyaruni, allintan mijuchanipas.",desconocido,desconocido,desconocido
+Tengo reflujo ácido que me quema la garganta por las noches,"Hayaqniytan kutichini sapa tuta, chaymi tonqoriyta q'arachin",desconocido,desconocido,desconocido
+Siento náuseas cuando huelo ciertos alimentos,Sonqoymi muyun wakin mijunakunawan,desconocido,desconocido,desconocido
+"Doctor, tengo hipo frecuente que dura mucho tiempo","Doktur, sinchitan hiq'ipakuni mana tukukuq hina",desconocido,desconocido,desconocido
+Tengo inflamación abdominal que empeora durante el día,Wiksaymi ñisuta p'unkin tukuy p'unchay,desconocido,desconocido,desconocido
+"Doctor, me salió un sarpullido rojo que me pica muchísimo","Doktur, puka granoskunan lloqsiruwan, chaymi sinchita seqsiwan",desconocido,desconocido,desconocido
+Tengo manchas en la piel que han ido creciendo de tamaño,"Qara muru lloqsiruwan, chaymi wiñaykushan",desconocido,desconocido,desconocido
+Me salen ronchas por todo el cuerpo que aparecen y desaparecen,"Granuskunan lloqsiruwan llapa cuerpuypi, chinkaruntaq rijurimuntaq",desconocido,desconocido,desconocido
+"Doctor, tengo la piel muy seca y agrietada en las manos","Doktur, ch'akillaña cuerpuypas, makiypas p'aspallana, .",desconocido,desconocido,desconocido
+Tengo una herida que no cicatriza y se ve infectada,"Qirin kashan mana chinkaq, hinaspapas infectakuchanmi",desconocido,desconocido,desconocido
+Me pica todo el cuerpo especialmente por las noches,Sapa tutantan cuerpuy seqsen,desconocido,desconocido,desconocido
+"Doctor, tengo ampollas en los pies que me duelen mucho","Doktur, chakiykunapi phusullukuna kashan, anchatan nanawan",desconocido,desconocido,desconocido
+Noto cambios en un lunar que me preocupan bastante,"Huk lunarniypin tikrakuykunatan reparani,chaymi anchata llakikuni.",desconocido,desconocido,desconocido
+Tengo hongos en las uñas de los pies que no se curan,"Chaki silluykunapin k'allanpakuna kashan, manataqmi qaliyanchu",desconocido,desconocido,desconocido
+"Doctor, me sale pus de una herida y está muy inflamada","Doktur, huk k'iriymi  ñisu p'unkiskqa, q'eataqmi lloqsimushan.",desconocido,desconocido,desconocido
+¿Puedo seguir amamantando a mi bebé con este tratamiento?,Kay hampiwan wawayta ñuñuchiytaqa atiniychu?,desconocido,desconocido,desconocido
+¿Cuándo debo regresar para la próxima consulta?,Hayk’aqmi kutimunay kachkan hamuq tapukuypaq?,desconocido,desconocido,desconocido
+"Doctor, ¿qué tan grave es mi condición realmente?","Doktur, imaynatan kashan unquyniyqa, ancha chanikuychu?",desconocido,desconocido,desconocido
+¿Puedo hacer ejercicio o debo guardar reposo absoluto?,Ejerciciota ruwasaqchu utaq llapan samaypi kakunaychu?,desconocido,desconocido,desconocido
+¿Este problema puede volverse crónico o se cura completamente?,Kay sasachakuyqa unay unaypaqchu tukukunman utaq allintachu hampikun?,desconocido,desconocido,desconocido
+"Doctor, ¿hay alguna forma de prevenir que esto vuelva a pasar?","Doktur, kanchu imayna mana kutimunanpaq kayqa?",desconocido,desconocido,desconocido
+¿Necesito hacerme más análisis o exámenes complementarios?,Astawan análisis utaq qhawaykuna ruwanaypaqchu kani?,desconocido,desconocido,desconocido
+¿Puedo viajar a la sierra con este problema que tengo?,Kay unquywanqa sierraman risaqchu?,desconocido,desconocido,desconocido
+"Doctor, ¿cuánto va a costar todo el tratamiento aproximadamente?","Doktur, llapan hampiyqa hayk’a qullqichu kanqa?",desconocido,desconocido,desconocido
+¿Hay algún remedio casero que pueda usar como complemento?,Kanachu wasipi ruwasqa hampi yanapananpaq?,desconocido,desconocido,desconocido
+¿Debo cambiar algo en mi estilo de vida?,Kawsayniypi imatapas tikranaychu?,desconocido,desconocido,desconocido
+"Doctor, ¿esto afectará mi capacidad de tener hijos en el futuro?","Doktur, kayqa wawata hap’iy atiyniyta hamuq p’unchaykunapi hark’anmanchu?",desconocido,desconocido,desconocido
+¿Puedo combinar este medicamento con mis otras pastillas?,Kay hampita wakin pastillaykunawan kuskachaspa upyayta atiniychu?,desconocido,desconocido,desconocido
+¿Qué debo hacer si los síntomas empeoran en casa?,Wasipi kashaspa ashwanta nanariptinqa imatan ruwanay?,desconocido,desconocido,desconocido
+"Doctor, ¿necesito que alguien me cuide en casa?","Doktur, wasipi pipas qhawawananchu?",desconocido,desconocido,desconocido
+"Según sus síntomas, usted tiene una infección respiratoria aguda","Unquyniykikunamantaqa, qanqa sinchi samay ñanpi infecciónniyuqmi kanki.",desconocido,desconocido,desconocido
+Los resultados indican que tiene los niveles de azúcar muy elevados,Resultadosqa rikuchkanmi yawarniykipi asukarniyqa ancha wicharisqa kasqanta.,desconocido,desconocido,desconocido
+Su presión arterial está muy alta y necesitamos controlarla urgentemente,"Yawar ñit’iyniykiqa ancha wichaypi kashan, utqaylla controlananchikmi.",desconocido,desconocido,desconocido
+Tiene una gastritis severa que requiere tratamiento inmediato,"Sinchi wiksa q’uchu unquywanmi kanki, utqaylla hampinanchikmi.",desconocido,desconocido,desconocido
+Los análisis muestran que tiene anemia y necesita suplementos de hierro,"Análisisqa rikuchkanmi anemiawan kasqaykita, fierro hampikuna necesitanki.",desconocido,desconocido,desconocido
+Usted presenta signos de una infección urinaria que debe tratarse,Ismutay ñanpi infección señalkunata rikuchkanki.,desconocido,desconocido,desconocido
+Su dolor de cabeza parece ser de tipo tensional por estrés,Umananaykiqa estrésmanta hina kashan.,desconocido,desconocido,desconocido
+Tiene una inflamación en las articulaciones compatible con artritis,Tulluy tinkunakunapi p’unkayqa artritisman rikch’akun.,desconocido,desconocido,desconocido
+Los síntomas indican que podría tener cálculos en la vesícula,Vesículaykipi rumi hina rumikuna kanman.,desconocido,desconocido,desconocido
+Usted tiene una bronquitis que requiere antibióticos y reposo,"Bronquitisniyuqmi kanki, antibiótico hampiwan samaywanmi alliyanki.",desconocido,desconocido,desconocido
+Su nivel de colesterol está muy elevado y debemos bajarlo,Colesterolniykiqa ancha wicharisqa kashan.,desconocido,desconocido,desconocido
+Tiene una dermatitis alérgica causada por contacto con alguna sustancia,Alergia qara unquywanmi kanki.,desconocido,desconocido,desconocido
+Los resultados sugieren que tiene problemas de tiroides,Tiroides glandulaykipi sasachakuy kan.,desconocido,desconocido,desconocido
+Usted presenta signos de deshidratación severa por la diarrea,Q’echa unquymanta ancha ch’akiywanmi kanki.,desconocido,desconocido,desconocido
+Tiene una contractura muscular en la espalda que causa el dolor,Wasapi aycha sinchi churakusqa kashan.,desconocido,desconocido,desconocido
+Sus síntomas son compatibles con un cuadro de migraña crónica,Unay uman unquywanmi kanki.,desconocido,desconocido,desconocido
+Usted tiene una infección en la garganta causada por bacterias,Kunkaykipi bacteria infecciónniyuqmi kanki.,desconocido,desconocido,desconocido
+Los estudios muestran que tiene un problema en el hígado,Hígadoniypi sasachakuy kan.,desconocido,desconocido,desconocido
+Tiene una inflamación en el estómago por exceso de ácido,Wiksaykipi ácido rayku p’unkay kan.,desconocido,desconocido,desconocido
+Su corazón está funcionando con un ritmo irregular que debemos corregir,Sonqoyki mana kuska takishan.,desconocido,desconocido,desconocido
+Debe tomar este medicamento cada ocho horas durante siete días completos,"Kay hampita sapa pusaq horapi, qanchis p’unchaykama upyay.",desconocido,desconocido,desconocido
+Es importante que tome las pastillas con alimentos para proteger su estómago,Mikhunawan kuska upyay.,desconocido,desconocido,desconocido
+Necesita guardar reposo absoluto en cama durante al menos tres días,Kimsa p’unchay cama samaypi kakuy.,desconocido,desconocido,desconocido
+"Debe beber abundante agua, por lo menos dos litros diarios",Sapa p’unchay achka unuta upyay.,desconocido,desconocido,desconocido
+Le voy a recetar un antibiótico que debe completar aunque se sienta mejor,Alliyaspapas antibióticota tukuchanaykikama upyay.,desconocido,desconocido,desconocido
+Necesita aplicarse compresas de agua tibia en la zona afectada,Q’uñi unu llamp’uta churay nanayman.,desconocido,desconocido,desconocido
+"Debe evitar comidas grasosas, picantes y condimentadas por completo","Wira, k’allu mikhunata ama mikhuychu.",desconocido,desconocido,desconocido
+Es fundamental que regrese en una semana para evaluar su progreso,Huk semanaman kutimuy.,desconocido,desconocido,desconocido
+Debe tomar este jarabe tres veces al día antes de cada comida,Jarabeta kimsa kuti p’unchaypi upyay.,desconocido,desconocido,desconocido
+Necesita hacerse estos análisis de sangre lo más pronto posible,Utqaylla yawar análisis ruwachikuy.,desconocido,desconocido,desconocido
+Debe suspender inmediatamente el consumo de alcohol y tabaco,Suspenda alcohol y tabaco,desconocido,desconocido,desconocido
+Le recomiendo que use esta pomada dos veces al día sobre la piel limpia,Pomadata iskay kuti p’unchaypi churay.,desconocido,desconocido,desconocido
+Necesita elevar la pierna y mantenerla en reposo con hielo,Chakita wichaypi churay hinaspa rit’ita churay.,desconocido,desconocido,desconocido
+Debe comer alimentos ricos en fibra y aumentar el consumo de frutas,"Fibra, rurukunata astawan mikhuy.",desconocido,desconocido,desconocido
+Es necesario que se inyecte esta ampolla intramuscular cada día,Kay ampollata sapa p’unchay inyectachikuy.,desconocido,desconocido,desconocido
+"Señor, debe controlar su presión todas las mañanas y llevar un registro","Wiraqocha, sapa paqarinmi yawarniykita qhawanayki, registrotataq apanayki.",desconocido,desconocido,desconocido
+"Doctor, tengo mucha tos y me duele el pecho","Doktur, sinchitan uhu hapiwan qasqoita nanawan.",desconocido,desconocido,desconocido
+"Señora, le voy a dar una dieta especial que debe seguir estrictamente","Señora, huk dieta especialta qosqayki, chaytan allinta qatikunayki.",desconocido,desconocido,desconocido
+"Doctor, me siento muy débil y sin energía","Doktur, ancha pisi kallpayoqmi tariquni, manataqmi valorniy kanchu.",desconocido,desconocido,desconocido
+"Señor, necesita inhalar este medicamento cada cuatro horas para respirar mejor","Wiraqocha, kay hampitan muchkinayki sapa tawa horasmantam samanayki, samainiyki allim k'anampaq",desconocido,desconocido,desconocido
+"Doctor, me salieron ronchas en todo el cuerpo","Doktur, tukuy cuerpoypin colmenas onqoyniyoq kani.",desconocido,desconocido,desconocido
+"Señora, debe evitar el sol","Señora, intimanta paqanunayki",desconocido,desconocido,desconocido
+"Doctor, tengo fiebre desde hace tres días","Doktur, kimsa punchawñam fiebrewan kachkani.",desconocido,desconocido,desconocido
+"Señor, es importante que venga a sus controles mensuales sin falta","Wiraqocha, allinmi sapa killa citaikiman mana pantaspa hamunayki.",desconocido,desconocido,desconocido
+"Doctor, me duele la cabeza todo el tiempo","Doktur, umayqa sapa kutim nanawan.",desconocido,desconocido,desconocido
+"Señora, debe tomar este medicamento en ayunas con un vaso lleno de agua","Señora, kay hampitaqa ch’usaq wiksallapi huk hunt’a vasopi unuwan ujanayki.",desconocido,desconocido,desconocido
+"Doctor, no puedo dormir bien por las noches","Doktur, tuta manam allintachu puñuyta atini.",desconocido,desconocido,desconocido
+"Señor, necesita descansar el cuello por varios días","Wiracocha, askha p’unchay kunkaykita samachinayki.",desconocido,desconocido,desconocido
+"Doctor, me duele mucho la espalda baja","Doktur, wasaypa urayninmi anchata nanawan.",desconocido,desconocido,desconocido
+"Señora, debe lavar la herida con agua y jabón tres veces al día","Señora, maillinaiki kimsa qutita k'irita jabonwan y unuwan",desconocido,desconocido,desconocido
+"Doctor, tengo ganas de vomitar","Doktur, noqa munani aqtuyokuyta",desconocido,desconocido,desconocido
+"Señor, es importante que complete todo el tratamiento","Wiracocha, allim llapan hampiyta tukunayki",desconocido,desconocido,desconocido
+"Doctor, me cuesta respirar cuando camino","Doktur, purispay samayniy sasachakuni.",desconocido,desconocido,desconocido
+"Señora, debe evitar hacer esfuerzos físicos o levantar cosas pesadas","Señora, ama kallpachakunaykichu nitaq llasa kaqkunata hoqarinaykichu.",desconocido,desconocido,desconocido
+"Doctor, tengo hinchados los pies y las manos","Doktur, chakiykuna y makiykuna punkisqa.",desconocido,desconocido,desconocido
+"Señor, vamos a necesitar una radiografía para ver sus pulmones","Wiracocha, necesitani radiografíata pulmonniyki qhawanapaq.",desconocido,desconocido,desconocido
+"Doctor, me duele mucho al orinar","Doktur, hispaqtiy nishuta nanawan.",desconocido,desconocido,desconocido
+"Señora, le voy a pedir análisis completos de sangre y orina","Señora, mañasaiki analisis  yawarmanta y hispaimanta.",desconocido,desconocido,desconocido
+"Doctor, tengo mucha comezón en la piel","Doktur, qaraypim anchata secsewan.",desconocido,desconocido,desconocido
+"Señor, necesitamos hacerle un ultrasonido de abdomen para revisar sus órganos","Señor, wiksamanta ultrasonidota ruwananchismi órganoykikunata qhawarinapaq.",desconocido,desconocido,desconocido
+"Doctor, me siento mareado cuando me levanto","Doktur, sayarispaymi umay muyukun.",desconocido,desconocido,desconocido
+"Señora, voy a medirle la temperatura","Señora, temperaturata tupusaq.",desconocido,desconocido,desconocido
+"Doctor, tengo un bulto en el cuello que me preocupa","Doktur, kunkaypi huk k'ompo kachkan llakichiwan.",desconocido,desconocido,desconocido
+"Señor, le voy a examinar la garganta con este instrumento","Señor, kay instrumentowanmi kunkaykita qhawarisaq.",desconocido,desconocido,desconocido
+"Doctor, me duele el estómago después de comer","Doktur, mikusqaymanta wiksa nanawan.",desconocido,desconocido,desconocido
+"Señora, necesitamos hacerle un examen del corazón para ver cómo está","Señora, necesitanni examenta ruwayta imaiynas sonqoyki kashan",desconocido,desconocido,desconocido
+"Doctor, tengo mucho ardor en el pecho","Doktur, nishutan q'aran q'asqoypi.",desconocido,desconocido,desconocido
+"Señor, voy a tocar su abdomen para detectar cualquier inflamación","Señor, wiksaykita sientesaq ima punkipas kananmanta qhawanaypaq.",desconocido,desconocido,desconocido
+"Doctor, me sangra la nariz seguido","Doktur, sapa kutim yawar senkaymanta lluqsimun.",desconocido,desconocido,desconocido
+"Señora, le voy a escuchar los pulmones con el estetoscopio","Señora, estetoscopiowanmi pulmonniykita uyarisaq.",desconocido,desconocido,desconocido
+"Doctor, tengo diarrea hace una semana","Doktur, huk semanañan q'echa onqoywan kashani.",desconocido,desconocido,desconocido
+"Señor, necesitamos una muestra de flema para analizarla en el laboratorio","Señor, necesitanchismi muestra de flema nisqa analisis de laboratorio nisqapaq.",desconocido,desconocido,desconocido
+"Doctor, me duelen mucho las articulaciones","Doktur, articulacionkunam anchata nanawan.",desconocido,desconocido,desconocido
+"Señora, voy a revisar su ojo","Señora, ñawiykita qawasaq",desconocido,desconocido,desconocido
+"Doctor, tengo mucha sed todo el día","Doktur, noqata ch'aqiwan  kunan unchay nishuta",desconocido,desconocido,desconocido
+"Señor, le voy a sacar una muestra de sangre del dedo para medir su azúcar","Señor, dedoykimanta yawarta hurqusaq azúcarniyki tupunaypaq.",desconocido,desconocido,desconocido
+"Doctor, me siento muy ansioso últimamente","Doktur, kay watakunapim anchata llakikuni.",desconocido,desconocido,desconocido
+"Señora, necesito hacerle un examen de estómago por dentro","Señora, wiksayki ukhunta qhawarinayku .",desconocido,desconocido,desconocido
+"Doctor, me zumban los oídos constantemente","Doktur, rinriyqa sapa kutim wanwan.",desconocido,desconocido,desconocido
+"Señora, voy a examinar sus oídos con el instrumento","Señora, chay instrumentowanmi rinriykita qawasaq.",desconocido,desconocido,desconocido
+"Doctor, me duele el pecho cuando hago ejercicio","Doktur, ejercishuta ruwaqtiy qhasqu nanawan.",desconocido,desconocido,desconocido
+"Señora, respire profundo mientras escucho su espalda","Señora, wasaikita uyarisaq samay profunduta.",desconocido,desconocido,desconocido
+"Doctor, me canso mucho al subir las escaleras","Doktur, escaleraman seqaspay  sayk’uni.",desconocido,desconocido,desconocido
+"Señor, necesitamos hacerle una prueba de estrés para revisar su corazón","Wiraqocha, prueba de estrés nisqatan qawanayku sonqoykita qhawarinaykupaq.",desconocido,desconocido,desconocido
+"Señora, debe venir en dos semanas para ver cómo va","Señora, iskay semanamantam haykumunayki qawachikunaykipaq saludniyquita",desconocido,desconocido,desconocido
+¿Tiene fiebre?,¿Ruphayuqchu kanki?,dialogo_medico,formal,sintomas
+Me duele la cabeza,Umay nanan,dialogo_medico,formal,sintomas
+Tengo tos,Uqhaywanmi kani,dialogo_medico,formal,sintomas
+¿Es alérgico?,¿Alergiyayuqchu kanki?,dialogo_medico,formal,diagnostico
+Tome esta pastilla,Kay pastillata upyay,instruccion,formal,medicacion
+Vuelva mañana,Paqarin kutimuy,instruccion,formal,seguimiento
+¿Ha comido?,¿Mikhurankichu?,dialogo_medico,formal,sintomas
+Me mareo,Muyuywanmi kani,dialogo_medico,formal,sintomas
+Es una gripe,Gripe-mi,dialogo_medico,formal,diagnostico
+Repose en casa,Wasipi samay,instruccion,formal,tratamiento
+¿Le duele aquí?,¿Kaypi nananchu?,dialogo_medico,formal,sintomas
+Tengo náuseas,Millanaywanmi kani,dialogo_medico,formal,sintomas
+Beba agua,Yakuta upyay,instruccion,formal,tratamiento
+¿Fuma?,¿Sigarruta apankichu?,dialogo_medico,formal,prevencion
+Es grave,Sinchi-mi,dialogo_medico,formal,diagnostico
+Me duele el pecho,Sunquy nanan,dialogo_medico,formal,sintomas
+Tome el jarabe,Kay jarabeta upyay,instruccion,formal,medicacion
+¿Está embarazada?,¿Wawayuqchu kanki?,dialogo_medico,formal,diagnostico
+No coma grasa,Wirata ama mikhuychu,instruccion,formal,tratamiento
+Tengo diarrea,Q'echuywanmi kani,dialogo_medico,formal,sintomas
+¿Ha dormido bien?,¿Allin puñurankichu?,dialogo_medico,formal,sintomas
+Es leve,Pisillam,dialogo_medico,formal,diagnostico
+Póngase la vacuna,Kay vacunata churakuy,instruccion,formal,vacunacion
+Me pica la piel,Qaraymi k'itiywanmi kani,dialogo_medico,formal,sintomas
+Venga con resultados,Resultadokunawan hamuy,instruccion,formal,seguimiento
+¿Tiene diabetes?,¿Diabetesniyuqchu kanki?,dialogo_medico,formal,diagnostico
+Tengo frío,Chiriywanmi kani,dialogo_medico,formal,sintomas
+Lávese las manos,Makiykikunata mayllakuy,instruccion,formal,prevencion
+¿Cuántos años tiene?,¿Hayka watayuq kanki?,dialogo_medico,formal,diagnostico
+Es contagioso,Rikhuchikuqmi,dialogo_medico,formal,diagnostico
+No tome alcohol,Alkoholta ama upyaychu,instruccion,formal,tratamiento
+Me duele la garganta,Kunkay nanan,dialogo_medico,formal,sintomas
+Use mascarilla,Mascarillata churay,instruccion,formal,prevencion
+¿Es la primera vez?,¿Kayqa ñawpaq kutichu?,dialogo_medico,formal,diagnostico
+Tengo sueño,Puñunaywanmi kani,dialogo_medico,formal,sintomas
+Acuéstese aquí,Kaypi siriy,instruccion,formal,diagnostico
+Es normal,Allinmi,dialogo_medico,formal,diagnostico
+Tengo calor,Ruphaywanmi kani,dialogo_medico,formal,sintomas
+Pase adelante,Ñawpaqman yaykuy,instruccion,formal,dialogo_medico
+¿Toma medicinas?,¿Hampikunata upyankichu?,dialogo_medico,formal,medicacion
+Me duele el estómago,Wiksay nanan,dialogo_medico,formal,sintomas
+Respire profundo,Hatun samiyta samay,instruccion,formal,diagnostico
+Es una infección,Infeksyonmi,dialogo_medico,formal,diagnostico
+Tengo comezón,K'itiywanmi kani,dialogo_medico,formal,sintomas
+Quédese en casa,Wasipi qhipakuy,instruccion,formal,tratamiento
+¿Tiene seguro?,¿Seguruyuqchu kanki?,dialogo_medico,formal,diagnostico
+Abra la boca,Simita kichay,instruccion,formal,diagnostico
+Me siento débil,Pisi kallpayuqmi kani,dialogo_medico,formal,sintomas
+Espere aquí,Kaypi suyay,instruccion,formal,dialogo_medico
+Gracias doctor,Añay doctor,dialogo_medico,formal,dialogo_medico
+¿Te operaron?,¿Operarasurqankichu?,pregunta,formal,cirugía
+Mi cara está hinchada,Uyyay punthisqa kashan,descriptivo,formal,síntomas
+Toma agua de muña.,Muña unuta ukyay,instrucción,formal,medicina_tradicional
+Tengo un bulto en el cuello,Kunkaypi ch'upu kashan,descriptivo,formal,síntomas
+¿Sientes el sabor?,¿Misk'ita malliykunkichu?,pregunta,formal,síntomas
+Me duelen los riñones,Rurunykuna nanawan,descriptivo,formal,síntomas
+Camina despacio,Allillamanta puriy,instrucción,formal,movilidad
+Su barriga está dura,Wijsan k'ullu kashan,descriptivo,formal,pediatría
+¿Sangra tu nariz?,¿Senqayki yawarhamunchu?,pregunta,formal,síntomas
+Me pican los ojos,Ñawiy siqiwan,descriptivo,formal,síntomas
+Descansa en lo oscuro,Laq'ayaypi samay,instrucción,formal,tratamiento
+Me duele al tragar,Millp'uptiy nanawan,descriptivo,formal,síntomas
+¿Tomaste algún mate?,¿Mateta ukyarqankichu?,pregunta,formal,antecedentes
+Mis manos hormiguean,Makiy susunwayan,descriptivo,formal,síntomas
+No comas sal,Ama kachita mikhuychu,instrucción,formal,tratamiento
+¿Tu herida tiene pus?,¿K'iriyki q'iyayuqchu?,pregunta,formal,síntomas
+Me golpeé la cintura,Weqawniyta p'anqakurquni,descriptivo,formal,accidentes
+Toma esto cada mañana,Sapa paqarin kayta ukyay,instrucción,formal,tratamiento
+¿Zumban tus oídos?,¿Ninriyki rururunniku?,pregunta,formal,síntomas
+Veo borroso,Laq'ayata rikhuni,descriptivo,formal,síntomas
+Sécate bien,Allinta ch'akichikuy,instrucción,formal,higiene
+¿Quieres comer?,¿Mikhuyta munankichu?,pregunta,formal,síntomas
+Me duele el talón,Tayquymi nanawan,descriptivo,formal,síntomas
+Tápate bien,Allinta q'uñichikuy,instrucción,formal,prevención
+¿Orina oscura?,¿Hisp'ayniyki yanachu?,pregunta,formal,síntomas
+Me falta aire,Samayniy pisiwan,descriptivo,formal,síntomas
+Ponte esta pomada,Kay llunp'ita churakuy,instrucción,formal,tratamiento
+¿Pies fríos?,¿Chakiyki chirishasunki?,pregunta,formal,síntomas
+Me duele la espalda baja,Wasa urayniy nanawan,descriptivo,formal,síntomas
+Come más quinua,Kinwata mikhuy,instrucción,formal,nutrición
+Todo da vueltas,Tukuy muyun,descriptivo,formal,síntomas
+Lava tu herida,K'iriykita maylliy,instrucción,formal,tratamiento
+¿Pecho silba?,¿Qhasquyki khuyuqchu?,pregunta,formal,síntomas
+No muevo mi brazo,Marq'ayta mana kuyuchinichu,descriptivo,formal,movilidad
+Toma esto antes de dormir,Manaraq puñushaspa ukyay,instrucción,formal,tratamiento
+¿Tienes granos?,¿Ch'upuyki kanchu?,pregunta,formal,síntomas
+Duele al respirar,Samaptiy nanawan,descriptivo,formal,síntomas
+¿Cuándo fuiste al baño?,¿Hayk'aq ispaykunki?,pregunta,formal,síntomas
+Toma agua de linaza,Linaza unuta ukyay,instrucción,formal,tratamiento
+Me pica la garganta,Millp'uymi siqiwan,descriptivo,formal,síntomas
+¿Duele al sentarte?,¿Tiyakuptiyki nanasunkichu?,pregunta,formal,síntomas
+Tobillo hinchado,Chaki muquy punthisqa,descriptivo,formal,síntomas
+Abriga al bebé,Wawata q'uñichiy,instrucción,formal,pediatría
+¿Tuviste pesadillas?,¿Millayta mosqokurqankichu?,pregunta,formal,psicología
+Duele el lado izquierdo,Lloq'e ladoy nanawan,descriptivo,formal,síntomas
+No cargues peso,Ama llasaqta hoqariychu,instrucción,formal,tratamiento
+¿Arden tus ojos?,¿Ñawiyki raurashanchu?,pregunta,formal,síntomas
+Duele mi muñeca,Maki muquymi nanawan,descriptivo,formal,síntomas
+Ven en ayunas,Ch'usaq wijsa hamuy,instrucción,formal,consulta
+¿Tu hijo está débil?,¿Wawayki pishipashqachu?,pregunta,formal,pediatría
+Tengo mucha sed,Ch'akiywan kashani,descriptivo,formal,síntomas
+¿Cuánto tiempo lleva así?,¿Hayka tiempoñataq chhayna kanki?,dialogo_medico,formal,sintomas
+Me duelen las articulaciones,T'inkuykunaymi nanaywanmi kani,dialogo_medico,formal,sintomas
+¿Ha tenido esto antes?,¿Kayta ñawpaqtapas charrqankichu?,dialogo_medico,formal,diagnostico
+Tengo escalofríos,Chullijaq siqiwan kani,dialogo_medico,formal,sintomas
+No puedo dormir,Manan puñuyta atinichu,dialogo_medico,formal,sintomas
+Tome esto tres veces al día,Kayta kimsa kutiyta uhyay p'unchaypi,instruccion,formal,medicacion
+¿Le duelen los huesos?,¿Tulluykikuna nanayta kanchari?,dialogo_medico,formal,sintomas
+Tengo mucha sed,Ancha ch'akiywanmi kani,dialogo_medico,formal,sintomas
+Evite comidas picantes,Hayaq mikuykunata harkay,instruccion,formal,tratamiento
+Me cuesta respirar,Samayqa sinchitan kani,dialogo_medico,formal,sintomas
+¿Tiene antecedentes familiares?,¿Aylluykipi ima unkuy kanchu?,dialogo_medico,formal,diagnostico
+Tengo la presión alta,Presion hataywanmi kani,dialogo_medico,formal,sintomas
+Hágase estos análisis,Kay t'aqwiykunata ruwachiy,instruccion,formal,diagnostico
+Me duele al orinar,Hisq'ayshaqtiymi nanawan,dialogo_medico,formal,sintomas
+Camine media hora diaria,Sapa p'unchay chawpi hora purinki,instruccion,formal,tratamiento
+¿Tiene vómitos?,¿Mayllisqata kanchari?,dialogo_medico,formal,sintomas
+Me salen ronchas,Ch'upuykunami lluqsimuwanku,dialogo_medico,formal,sintomas
+Necesita cirugía,Operacionta necesitanki,dialogo_medico,formal,diagnostico
+Tengo sangrado,Yawar lluqsimuwanmi,dialogo_medico,formal,sintomas
+Aplique compresas frías,Chiri pañukunata churay,instruccion,formal,tratamiento
+¿Le late rápido el corazón?,¿Sonqoyki utqha t'uqutinchu?,dialogo_medico,formal,sintomas
+Tengo la boca seca,Simiyqa ch'akin kashan,dialogo_medico,formal,sintomas
+Regrese en una semana,Huk semanapi kutimuy,instruccion,formal,seguimiento
+Me tiemblan las manos,Makiykunaymi susuhuwan,dialogo_medico,formal,sintomas
+No se rasque,Ama aspiykuy,instruccion,formal,tratamiento
+¿Cuándo fue su última regla?,¿Hayk'aqtaq qhipaq killapi karqanki?,dialogo_medico,formal,diagnostico
+Tengo los ganglios inflamados,Hanpikuna punthisqanmi kani,dialogo_medico,formal,sintomas
+Mantenga la herida limpia,K'iriykita ch'uya qhipachay,instruccion,formal,tratamiento
+Me duele al caminar,Purishaspaymi nanawan,dialogo_medico,formal,sintomas
+¿Tiene hinchazón?,¿Punthisqata kanchari?,dialogo_medico,formal,sintomas
+Tengo mucho cansancio,Anchata saqisqaymi kani,dialogo_medico,formal,sintomas
+Use zapatos cómodos,Kusichiq zapatosta churay,instruccion,formal,prevencion
+Me duelen los músculos,Aycha nanaywanmi kani,dialogo_medico,formal,sintomas
+¿Ha bajado de peso?,¿Llasayta pisiyachirqankichu?,dialogo_medico,formal,diagnostico
+Tengo zumbido en los oídos,Ninriykuna rurururuwan,dialogo_medico,formal,sintomas
+Tome sol por las mañanas,Paqarinkunapi intiyta chaskiy,instruccion,formal,tratamiento
+¿Tiene dolor de huesos?,¿Tullu nanaywan kanchari?,dialogo_medico,formal,sintomas
+Me duele el hígado,K'iwyay nanaywanmi kani,dialogo_medico,formal,sintomas
+Reduzca el azúcar,Misk'i pisiyachiy,instruccion,formal,tratamiento
+Tengo calambre,Khurun nanaywanmi kani,dialogo_medico,formal,sintomas
+¿Orina con frecuencia?,¿Sapa kutichu hisq'anki?,dialogo_medico,formal,sintomas
+Tengo la lengua blanca,Qalluymi yurachasqa kashan,dialogo_medico,formal,sintomas
+No se esfuerce mucho,Ama anchataraq kallpata churaychu,instruccion,formal,tratamiento
+Me arde al orinar,Hisq'ashaspaymi rauran,dialogo_medico,formal,sintomas
+¿Tiene moretones?,¿Yana yurachasqata kanchari?,dialogo_medico,formal,sintomas
+Tengo manchas en la piel,Qaraypi ch'iqchi ch'iqchikunami kashan,dialogo_medico,formal,sintomas
+Coma más verduras,Yuyukunataraq mikhuy,instruccion,formal,tratamiento
+Me duele la rodilla,Qunqur nanaywanmi kani,dialogo_medico,formal,sintomas
+¿Se ha golpeado?,¿P'anqakurqankichu?,dialogo_medico,formal,diagnostico
+Tengo entumecimiento,Ñut'uywanmi kani,dialogo_medico,formal,sintomas
+¿Desde cuándo tiene dolor de cabeza?,¿Hayka unayñataq uma nanayniyuq kanki?,dialogo medico,formal,sintomas
+¿Le duele el estómago después de comer?,¿Mikhuyta tukuspa wiksayki nananchu?,dialogo medico,formal,sintomas
+¿Ha tenido fiebre en las últimas horas?,¿Kay qhipa horakunapi fiebreyuqchu kanki?,dialogo medico,formal,sintomas
+¿Siente mareos cuando se levanta?,¿Hatarispaykichu umayki muyukunki?,dialogo medico,formal,sintomas
+¿Tiene dificultad para respirar?,¿Sasachakunkichu samayta?,dialogo medico,formal,sintomas
+¿Ha notado pérdida de apetito?,¿Repararqankichu manaña mikhuy munasqaykita?,dialogo medico,formal,sintomas
+¿Le arde la garganta al tragar?,Millp’uspa kunkayki ruphakunchu?,dialogo medico,formal,sintomas
+¿Tiene dolor en el pecho?,¿Sinqa nanayniyuqchu kanki?,dialogo medico,formal,sintomas
+¿Ha vomitado hoy?,¿Kunan punchaw vomitarqankichu?,dialogo medico,formal,sintomas
+¿Siente debilidad en el cuerpo?,¿Cuerpoykipi pisi kallpayoqchu sientekunki?,dialogo medico,formal,sintomas
+Vamos a tomarle la presión arterial.,Yawarpa tanqaynintam hapisaqku.,entrevista,formal,diagnostico
+Necesitamos hacer un análisis de sangre.,Yawarta qhawananchismi.,entrevista,formal,diagnostico
+Su temperatura está elevada.,Paypa rupayninqa aswan hatunmi.,respuesta breve,formal,diagnostico
+Parece que tiene una infección leve.,Llampu infecciónniyuq hinam.,respuesta breve,formal,diagnostico
+Debemos hacerle una radiografía.,Radiografía nisqatan ruwananchis.,entrevista,formal,diagnostico
+Tome esta pastilla después del desayuno.,Kay pastillataqa desayunaspa upyana.,lectura,formal,medicacion
+Tome el jarabe cada ocho horas.,Chay jarabetaqa sapa pusaq horamanta upyana.,lectura,formal,medicacion
+No suspenda el tratamiento sin avisar.,Ama hampiyta saqiychu mana willasqa.,lectura,formal,tratamiento
+Aplique esta crema en la zona afectada.,Kay cremataqa chay unqusqa kaqpi churana.,lectura,formal,tratamiento
+Beba abundante agua durante el tratamiento.,Hampikuypiqa achka yakuta upyana.,lectura,formal,tratamiento
+Debe guardar reposo por tres días.,Kimsa punchawmi samarinayki.,respuesta breve,formal,tratamiento
+Complete todo el tratamiento aunque se sienta mejor.,Allinña sientekunki chaypas llapan hampiyta hunt’ay.,lectura,formal,tratamiento
+Regrese en una semana para control.,Huk semanamanta kutimuy revisakunaykipaq.,dialogo medico,formal,seguimiento
+Si el dolor empeora vuelva inmediatamente.,"Nanay astawan yapakuptinqa, chaylla kutiy.",dialogo medico,formal,seguimiento
+No se automedique.,Ama kikiykita hampikuychu.,respuesta breve,formal,prevencion
+Hoy le aplicaremos la vacuna contra la influenza.,Kunan punchawmi gripe vacunata qusqaykiku.,dialogo medico,formal,vacunacion
+Es importante vacunarse cada año.,Sapa wata vacunakuyqa ancha allinmi.,narracion,formal,prevencion
+Lávese las manos con frecuencia.,Sapa kuti makiykita mayllakuy.,lectura,formal,prevencion
+Mantenga distancia si alguien está enfermo.,Pipas unquptinqa karunchakuy.,lectura,formal,prevencion
+La vacuna es segura y gratuita.,"Chay vacunaqa mana imamanta manchachikuqmi, manataqmi qullqipaqchu.",narracion,formal,vacunacion
+¿Cómo se ha sentido desde la última consulta?,¿Imaynan sientekunki qhepa consulta ruwasqaykimantapacha?,dialogo medico,formal,seguimiento
+¿Ha mejorado con el tratamiento?,¿Allinchu hampichikusqanwan?,dialogo medico,formal,seguimiento
+Informe si presenta nuevos síntomas.,Musuq sintomakunata rikhurichinki chayqa willay.,lectura,formal,seguimiento
+No falte a su próxima cita.,Ama qhepa citaykita faltaychu.,lectura,formal,seguimiento
+Estamos aquí para ayudarle.,Yanapanaykupaqmi kaypi kachkaniku.,narracion,formal,seguimiento
+Use mascarilla si tiene tos.,Tosniyuq kaspaqa mascarata churakuy.,lectura,formal,prevencion
+Evite el contacto cercano con personas enfermas.,Unqusqa runakunawanqa ama asuykuychu.,lectura,formal,prevencion
+Descanse y aliméntese bien.,Samay hinaspa allinta mikhuy.,respuesta breve,formal,tratamiento
+Debe controlar su presión cada mes.,Sapa killam yawarpa presión nisqaykita qawanayki.,dialogo medico,formal,seguimiento
+¿Está tomando sus medicamentos correctamente?,¿Allintachu hampiykikunata upyachkanki?,dialogo medico,formal,seguimiento
+¿Tiene antecedentes de diabetes?,¿Ñawpaqmantachu diabetes onqoyniyoq kanki?,entrevista,formal,diagnostico
+¿Es alérgica a algún medicamento?,¿Ima hampikunamanpas alergiayuqchu kanki?,entrevista,formal,diagnostico
+Necesita realizarse un examen adicional.,Huk prueba yapasqatan ruwanayki.,respuesta breve,formal,diagnostico
+Su nivel de azúcar está dentro de lo normal.,Nivel de azúcar nisqaykiqa normal nisqa ukhupin kashan.,narracion,formal,diagnostico
+Debe evitar el estrés para mejorar su salud.,Allinta qhali kanaykipaqqa manan estrés nisqapichu kanayki.,narracion,formal,prevencion
+¿Ha tenido contacto con alguien enfermo?,¿Pipas unquqwan tuparqankichu?,entrevista,formal,diagnostico
+Si presenta fiebre alta acuda al centro de salud.,"Sinchi fiebreyuq kanki chayqa, hampina wasiman riy.",lectura,formal,prevencion
+Es necesario completar todas las dosis del tratamiento.,Tukuy hampi dosiskunata hunt’ana tiyan.,narracion,formal,tratamiento
+Le explicaré cómo tomar el medicamento.,Chay hampita imayna upyanamanta sut’inchasaq.,dialogo medico,formal,medicacion
+Gracias por venir a su consulta médica.,Gracias consulta médica nisqaykiman hamusqaykimanta.,dialogo medico,formal,seguimiento
+Me duele la cabeza.,Umay nanashan.,lectura,formal,sintomas
+Tengo mucha fiebre.,Sinchita rupapashashani.,lectura,formal,sintomas
+Me duele el pecho.,Qhasquymi nanawan.,lectura,formal,sintomas
+Tengo náuseas.,Millapakuwashanmi.,lectura,formal,sintomas
+Me duele la garganta.,Kunkaymi nanashan.,lectura,formal,sintomas
+Tengo tos seca.,Ch’aki t’uqusqaymi kashan.,lectura,formal,sintomas
+Estoy muy cansado.,Sinchi sayk’usqa kashani.,lectura,formal,sintomas
+No huelo nada.,Manan imatapas mutkhiniñachu.,lectura,formal,sintomas
+Me pica la piel.,Aychaymi siqsiwashan.,lectura,formal,sintomas
+Me duele el estómago.,Wiksaymi nanashan.,lectura,formal,sintomas
+Me falta el aire.,Samayniymi pisiyapuwashan.,lectura,formal,sintomas
+Tengo escalofríos.,Khatatashanmi cuerpoy.,lectura,formal,sintomas
+Me duele la espalda.,Wasaymi nanashan.,lectura,formal,sintomas
+Me duelen los huesos.,Tulluykunami nanawan.,lectura,formal,sintomas
+No puedo dormir.,Manan puñuyta atiniñachu.,lectura,formal,sintomas
+Me zumba el oído.,Ninriymi qhinwashan.,lectura,formal,sintomas
+Me duele la cintura.,Wiqawnymi nanawan.,lectura,formal,sintomas
+Mis pies están hinchados.,Chakiykunami punkiyashan.,lectura,formal,sintomas
+Tengo diarrea.,Wiksaymi q’ichashan.,lectura,formal,sintomas
+Me arden los ojos.,Ñawiykunami rawrashan.,lectura,formal,sintomas
+Estoy mareado.,Umaymi muyushan.,lectura,formal,sintomas
+Sangra mi nariz.,Sinqaymi yawarayan.,lectura,formal,sintomas
+Me duele la muela.,Kiruymi nanawan.,lectura,formal,sintomas
+Tengo mucha sed.,Sinchi ch’akiywanmi kashani.,lectura,formal,sintomas
+He perdido peso.,Tulluyapushanimi.,lectura,formal,sintomas
+No tengo apetito.,Manan mikhunay yachanchu.,lectura,formal,sintomas
+Siento mucho frío.,Sinchi chiriywanmi kashani.,lectura,formal,sintomas
+Me duele el cuello.,Kunkaymi k’uyukun.,lectura,formal,sintomas
+Tengo un bulto aquí.,Kaypin ch’upu rikhurimuwan.,lectura,formal,sintomas
+Me duele al orinar.,Hisp’aymi nanawan.,lectura,formal,sintomas
+Mi cara está hinchada.,Uyaymi punkiyashan.,lectura,formal,sintomas
+Siento calambres.,Aychaymi k’itukun.,lectura,formal,sintomas
+Tengo herida en la boca.,Simiypi k’iri kashan.,lectura,formal,sintomas
+Me arde el estómago.,Wiksaymi rawrashan.,lectura,formal,sintomas
+No puedo caminar.,Manan puriyta atinichu.,lectura,formal,sintomas
+Me duele la rodilla.,Muquymi nanawan.,lectura,formal,sintomas
+Tengo mucha flema.,Sinchi q’uytan kashan.,lectura,formal,sintomas
+Siento palpitaciones.,Sonqoymi p’itishan.,lectura,formal,sintomas
+Me duelen los oídos.,Ninriykunami nanawan.,lectura,formal,sintomas
+Tengo manchas rojas.,Puka t’uquykunami rikhurimuwan.,lectura,formal,sintomas
+Siento debilidad.,Kallpaymi pisiyashan.,lectura,formal,sintomas
+Tengo ronquera.,Kunkaymi ch’akiyapun.,lectura,formal,sintomas
+Me duele el hígado.,Kukupiniymi nanashan.,lectura,formal,sintomas
+Tengo mucho vómito.,Sinchitan amuyapushani.,lectura,formal,sintomas
+Me duele la mano.,Makiy nanashan.,lectura,formal,sintomas
+No puedo ver bien.,Manan allintachu rikhuni.,lectura,formal,sintomas
+Tengo la boca seca.,Simiymi ch’akishani.,lectura,formal,sintomas
+Me duele el hombro.,Rikraymi nanawan.,lectura,formal,sintomas
+Siento hormigueo.,Aychaymi susunkayashan.,lectura,formal,sintomas
+Tengo estreñimiento.,Empachohuanmi kashani.,lectura,formal,sintomas
+¿Qué le duele?,Imaikin nanan.,lectura,formal,diagnostico
+Abra la boca.,Simiykita kichay.,lectura,formal,diagnostico
+Respire profundo.,Allinta samay.,lectura,formal,diagnostico
+Saque la lengua.,Qalluykita horqomuy.,lectura,formal,diagnostico
+Siéntese aquí.,Kaypi tiyaikuy,lectura,formal,diagnostico
+Échese de espaldas.,wasampanmantan wischukuy,lectura,formal,diagnostico
+¿Tiene alergias?,Ima hampitapas manchakunki?,lectura,formal,diagnostico
+Tome aire.,tranquilisarikuy.,lectura,formal,diagnostico
+No se mueva.,Ama kuyuriychu.,lectura,formal,diagnostico
+¿Desde cuándo duele?,Hayk’aqmantan nanasunki?.,lectura,formal,diagnostico
+Vamos a pesarlo.,pesasayki.,lectura,formal,diagnostico
+Muestre su herida.,qayachiway nanayniquita.,lectura,formal,diagnostico
+¿Comió algo hoy?,Mikhurqankichu kunan unchay.,lectura,formal,diagnostico
+Tapa tu nariz.,sinqaykita wiskay.,lectura,formal,diagnostico
+Mire hacia arriba.,Wichayta qhaway.,lectura,formal,diagnostico
+¿Toma medicamentos?,hampita tomanquichu?,lectura,formal,diagnostico
+Estire el brazo.,makikita chut'ari.,lectura,formal,diagnostico
+¿Duele aquí?,kaipichu nanashasunki.,lectura,formal,diagnostico
+Relaje el cuerpo.,Cuerpoykita samachiy.,lectura,formal,diagnostico
+Levante la polera.,Poleraykita hoqariy.,lectura,formal,diagnostico
+Cierre los ojos.,Ñawiykita ch’illmiy.,lectura,formal,diagnostico
+Póngase la bata.,bataykita churakuy.,lectura,formal,diagnostico
+¿Ha tenido hijos?,Wawayoqchu kanchu?.,lectura,formal,diagnostico
+Camine un poco.,puriri hoq chikanta.,lectura,formal,diagnostico
+Doble la pierna.,Chakiykita hunkuy.,lectura,formal,diagnostico
+¿Le duele mucho?,nishutachu nanasunki.,lectura,formal,diagnostico
+Espere su turno.,Turnoykita suyay.,lectura,formal,diagnostico
+¿A qué hora empezó?,Ima horatan qallariran?.,lectura,formal,diagnostico
+Necesitamos sangre.,yawarta mascashayku.,lectura,formal,diagnostico
+Pase al consultorio.,Consultorioman haykumuy.,lectura,formal,diagnostico
+¿Duerme bien?,allintachu puñunki?.,lectura,formal,diagnostico
+Escuche mi voz.,uyariy Kunkayta.,lectura,formal,diagnostico
+Señale el dolor.,Maykin nanashan.,lectura,formal,diagnostico
+¿Tiene mareos?,Umayki muyunchu?.,lectura,formal,diagnostico
+Baje el pantalón.,Pantalonniykita uraya chikuy.,lectura,formal,diagnostico
+¿Está embarazada?,Wiksayoqchu kashanki?.,lectura,formal,diagnostico
+Abra bien los ojos.,Ñawiykita allinta kichay.,lectura,formal,diagnostico
+¿Usa lentes?,Lentesta churakunkichu?,lectura,formal,diagnostico
+Tapa un oído.,Hoq ninriykita wiskay.,lectura,formal,diagnostico
+Suelte el aire.,kachari Samayniykita .,lectura,formal,diagnostico
+¿Sufre del corazón?,Sonqoykimantachu onqonki?,lectura,formal,diagnostico
+¿Le operaron antes?,operachikuranquichu ñaupacta,lectura,formal,diagnostico
+Póngase de pie.,Sayariy.,lectura,formal,diagnostico
+¿Tiene algún golpe?,maynikin nanashan.,lectura,formal,diagnostico
+Venga por aquí.,hamuy queininta.,lectura,formal,diagnostico
+¿Tose sangre?,Yawartachu t’uqunki?.,lectura,formal,diagnostico
+Descanse un rato.,samayurui hoq chikanta.,lectura,formal,diagnostico
+¿Siente este pinchazo?,qeyta reparanquichu.,lectura,formal,diagnostico
+¿Duele al presionar?,nananshu Ñit’iypti.,lectura,formal,diagnostico
+Todo estará bien.,Allinmi kanki.,lectura,formal,diagnostico
+¿Desde cuándo tiene fiebre?,Hayk'aqmantataq ruphayniyoq kanki?,lectura,formal,sintomas
+¿Le duele la garganta al tragar?,Nanasunkichu kunkayki millp'uqtiyki?,lectura,formal,sintomas
+¿Ha tenido tos en los últimos días?,Qhipa p'unchaykunapi uqhuyniyoqchu karanki?,lectura,formal,sintomas
+Voy a revisar su presión arterial.,Yawarniki ñit'iyta qhawasaq.,lectura,formal,sintomas
+Respire profundo por favor.,Ama hina kaspa sinchita samay.,lectura,formal,sintomas
+Debe tomar esta medicina cada ocho horas.,Kay hampita sapa pusaq horapi upyanayki.,lectura,formal,sintomas
+Necesita descansar durante tres días.,Kimsa p'unchayta samanayky.,lectura,formal,sintomas
+Debe beber bastante agua.,Achka unuta upyanayki.,lectura,formal,sintomas
+¿Tiene dolor de cabeza?,Umaykipi nanayniyuqchu kanki?,lectura,formal,sintomas
+Vamos a hacer un análisis de sangre.,Yawarniyki manta qhawariyta ruwasun.,lectura,formal,sintomas
+¿Ha sentido mareos recientemente?,Kunan p'unchaykunapi umayki muyusunki?,lectura,formal,sintomas
+Debe aplicarse esta vacuna hoy.,Kunan p'unchay kay T'irpunata churakuy.,lectura,formal,sintomas
+Regrese para control en una semana.,Huk semana qhipaman kutimuy qhawarinaypaq.,lectura,formal,sintomas
+Evite comer alimentos grasosos.,Ama wirayuq mikhunata mikhuychu.,lectura,formal,sintomas
+¿Tiene alergia a algún medicamento?,Hampikunaman alergiayuqchu kanki?,lectura,formal,sintomas
+¿Ha tenido vómitos?,Aqtukurankichu?,lectura,formal,sintomas
+¿Siente dolor en el estómago?,Wiksaykipi nanayniyuqchu kanki?,lectura,formal,sintomas
+Debe tomar el antibiótico por siete días.,Kay antibiyotikunata qanchis p'unchay upyanayki.,lectura,formal,sintomas
+Evite el esfuerzo físico.,Ama kallpachakuychu.,lectura,formal,sintomas
+Debe lavarse las manos frecuentemente.,Makiykikunata sapa kutin maqllinayki.,lectura,formal,sintomas
+¿Tiene dificultad para respirar?,Samayta atipakunkichu?,lectura,formal,sintomas
+Debe controlar su temperatura diariamente.,Sapa p'unchay ruphayniykita qhawarinayki.,lectura,formal,sintomas
+Le voy a recetar un analgésico.,Huk nanay chinkachiq hampita qollasayki.,lectura,formal,sintomas
+¿Tiene antecedentes de diabetes?,Diabetis unquy ñawpaqmantachu kan?,lectura,formal,sintomas
+Debe acudir inmediatamente si empeora.,Aswan millaykaptinqa usqayllata hamuy.,lectura,formal,sintomas
+¿Le duele el pecho?,Sonqoykipi nanayniyuqchu kanki?,lectura,formal,sintomas
+Necesita hacerse una radiografía.,Radiografiata ruwachikunayki.,lectura,formal,sintomas
+Debe evitar el consumo de alcohol.,Ama alkulta upyankichu.,lectura,formal,sintomas
+Debe dormir al menos ocho horas.,Pusaq horata puñunayki.,lectura,formal,sintomas
+¿Tiene diarrea?,q'echayuchu kanki?,lectura,formal,sintomas
+Debe mantener una dieta balanceada.,Allin mikhuykunata mikhunayki.,lectura,formal,sintomas
+Le haré un examen físico completo.,Llapan kuerpuykita qhawasaq.,lectura,formal,sintomas
+Debe regresar en tres días.,Kimsa p'unchay qhipaman kutimunayki.,lectura,formal,sintomas
+Debe tomar la pastilla después de comer.,Mikhuspa qhipaman pastillata upyanayki.,lectura,formal,sintomas
+¿Tiene dolor en las articulaciones?,Tulluykikunapi nanayniyuqchu kanki?,lectura,formal,sintomas
+Debe evitar el frío.,Ama chiriyman riychu.,lectura,formal,sintomas
+Voy a medir su nivel de azúcar.,Azukarniykita qhawasayki.,lectura,formal,sintomas
+Debe completar todo el tratamiento.,Llapan hampita tukunayki.,lectura,formal,sintomas
+¿Ha tenido escalofríos?,Chhirimanchayniyuqchu kanki?,lectura,formal,sintomas
+Debe usar mascarilla si tiene tos.,Uqhuyniyoq kaspa maskarata churakuy.,lectura,formal,sintomas
+Le recomiendo reposo absoluto.,Sumaq samayta ruwanayki.,lectura,formal,sintomas
+¿Tiene náuseas?,sunqukutichikuytachi ruwasasunki?,lectura,formal,sintomas
+Debe hidratarse constantemente.,Sapa kuti unuta ujanayki.,lectura,formal,sintomas
+Necesita una prueba de laboratorio.,Laboratoriopi qhawachikunayki.,lectura,formal,sintomas
+Debe vacunarse contra la influenza.,Influenza unquymanta t'irpuchikunayki.,lectura,formal,sintomas
+Regrese si presenta nuevos síntomas.,Musuq nanaykuna kaptinqa kutimunayki.,lectura,formal,sintomas
+Debe evitar automedicarse.,Ama kikillayki hampikunkichu.,lectura,formal,sintomas
+Voy a escuchar sus pulmones.,Pulmonniykita uyarisayki.,lectura,formal,sintomas
+Debe tomar abundante líquido.,Achka unuta millp'unaki.,lectura,formal,sintomas
+¿Ha perdido el apetito?,Mikhuy munayniykita chinkachinkichu?,lectura,formal,sintomas
+Lávese las manos.,makiykichikta makllikuychik,lectura,formal,prevencion
+Use mascarilla.,maskarillata churakuy,lectura,formal,prevencion
+Vacune a su hijo.,Wawaykita vacunachiy.,lectura,formal,vacunacion
+Coma verduras.,Q’umir qhurakunata mikhuy.,lectura,formal,prevencion
+Hierva el agua.,unuta t'impuchiy,lectura,formal,prevencion
+Limpie su casa.,Wasiykita pichay.,lectura,formal,prevencion
+Ventile el cuarto.,Cuartoykita wayrachiy.,lectura,formal,prevencion
+No fume tabaco.,Ama sayrita ukyaychu.,lectura,formal,prevencion
+Haga ejercicio.,Cuerpoykita kuyuchiy.,lectura,formal,prevencion
+Beba agua pura.,Ch’uya unuta ukyay.,lectura,formal,prevencion
+Cepille sus dientes.,Kiruykita machakuy.,lectura,formal,prevencion
+Use ropa limpia.,Ch’uya p’achata churakuy.,lectura,formal,prevencion
+Coma a su hora.,timpullampi mukhuy,lectura,formal,prevencion
+Traiga su carnet.,Carnetniykita apamuy.,lectura,formal,seguimiento
+Cuide su peso.,Llasayniykita qhaway.,lectura,formal,seguimiento
+Vuelva mañana.,Paqarin kutimuy.,lectura,formal,seguimiento
+No falte a cita.,citaykiman hamunkipuni,lectura,formal,seguimiento
+¿Cómo se siente?,imahinan kachkanki,lectura,formal,seguimiento
+Ya está sano.,¿allinñachu kachkanki?,lectura,formal,seguimiento
+Coma lentejas.,Lentejasta mikhuy.,lectura,formal,prevencion
+Use zapatos.,usutata churakuy,lectura,formal,prevencion
+Evite moscas.,Ch’uspikunamanta amachakuy.,lectura,formal,prevencion
+Lave las frutas.,Rurukunata maylliy.,lectura,formal,prevencion
+Duerma temprano.,Utqaylla puñuy.,lectura,formal,prevencion
+Cuide sus ojos.,Ñawiykita qhaway.,lectura,formal,prevencion
+No use basura.,q'upataqa wikch'upuy/ q'upataqa wikch'uy,lectura,formal,prevencion
+Mate los piojos.,usakunata sipiy,lectura,formal,prevencion
+Corte sus uñas.,Silluykita kuchuy.,lectura,formal,prevencion
+Use repelente.,Repelenteta churakuy.,lectura,formal,prevencion
+Tape la comida.,mikhunata tapay,lectura,formal,prevencion
+No beba del río.,ama mayu unutaqa upyaychu,lectura,formal,prevencion
+Use letrina.,letrinapi hisp'ay,lectura,formal,prevencion
+Beba leche fresca.,llamp'u ñukñuta upyay,lectura,formal,prevencion
+Coma huevo.,Runtuta mikhuy.,lectura,formal,prevencion
+No ande descalzo.,Ama q’ala chaki puriychu.,lectura,formal,prevencion
+Use sombrero.,Sombreroykita churakuy.,lectura,formal,prevencion
+Lave su ropa.,P’achaykita t’aqsay.,lectura,formal,prevencion
+Evite el humo.,Q’osñimanta amachakuy.,lectura,formal,prevencion
+Coma pescado.,Challwata mikhuy.,lectura,formal,prevencion
+Tome vitaminas.,Vitaminasta ukyay.,lectura,formal,prevencion
+Venga al control.,Controlniykiman hamuy.,lectura,formal,seguimiento
+Traiga al bebé.,wawata apamuy,lectura,formal,seguimiento
+¿Mejoró el dolor?,imaynan nanayniyki kachakan?,lectura,formal,seguimiento
+No use salitre.,Ama kachita ukyaychu.,lectura,formal,prevencion
+Coma quinua.,kuñuata mikhuy,lectura,formal,prevencion
+Beba mate caliente.,q'uñi matita upyay,lectura,formal,prevencion
+Use jaboncillo.,jabonwan mariykita makllikuy,lectura,formal,prevencion
+Cuide su sangre.,Yawarniykita qhaway.,lectura,formal,prevencion
+Vuelva en un mes.,huk killamanta kutimuyki,lectura,formal,seguimiento
+Gracias doctor.,Añay doctor.,lectura,formal,seguimiento
+¿Cómo se siente el día de hoy?,Imayna kashanki kunan punchawpi?,dialogo medico,formal,sintomas
+¿Dónde empezó el dolor?,Maypitaq qallarin chay nanay?,dialogo medico,formal,sintomas
+¿El dolor es fuerte o leve?,Sinchichu utaq pisillachu chay nanay?,dialogo medico,formal,sintomas
+¿Te duele más en la noche?,Sinchichu tuta nanasunqui?,dialogo medico,formal,sintomas
+¿Puedes mover el brazo sin dolor?,Rikraykita kuyuyta atinkichu mana nanaywan?,dialogo medico,formal,sintomas
+Te voy a medir la temperatura.,Ruphaykita tupaysaki kunan.,dialogo medico,formal,diagnostico
+Voy a revisar tu presión arterial.,Yawar ñit’iykita tupusqayki.,dialogo medico,formal,diagnostico
+Respira profundo por favor.,Allinta samayta apay.,dialogo medico,formal,diagnostico
+Siéntate aquí para revisarte.,"Kaypi tiay, qhawaykusqayki.",dialogo medico,formal,diagnostico
+Ponte de pie despacio.,Pisillawan sayariy.,dialogo medico,formal,diagnostico
+Es una infección leve.,Kay onqoy pisilla.,dialogo medico,formal,diagnostico
+Necesitas tratamiento rápido.,Usqhaytaa hampichikuyta necesitanki,dialogo medico,formal,tratamiento
+Toma esta medicina todos los días.,Kay hampita sapa punchay ujayunki.,dialogo medico,formal,medicacion
+Aplica la pomada en la herida.,Chay hampita churay llagaman,dialogo medico,formal,medicacion
+Lava tus manos antes de comer.,Manaraq mihunki maylliy makiykita.,dialogo medico,formal,prevencion
+Bebe agua hervida.,Uhay unu thimputa,dialogo medico,formal,prevencion
+Descansa y no trabajes mucho.,"Samay, ama  llamk’aychu sinchiyta.",dialogo medico,formal,tratamiento
+Regresa en tres días para control.,Kimsa punchawpi kutimunki qhawasaki.,dialogo medico,formal,seguimiento
+No comas comida grasosa.,Ama mihunkichu qhurpu mihunata.,dialogo medico,formal,tratamiento
+Te duele el pecho al respirar?,Nanasunkicho q’asqoykita samayoctiki?,dialogo medico,formal,sintomas
+Tienes presión alta.,Yawar sinchi kanki.,dialogo medico,formal,diagnostico
+Tienes presión baja.,Yawar pisi kanki.,dialogo medico,formal,diagnostico
+¿Desde cuándo tienes fiebre?,Hayk’aqmantataq ruphay kanki?,dialogo medico,formal,sintomas
+Es un dolor muscular.,Kayqa aycha nanaymi.,dialogo medico,formal,diagnostico
+Es un dolor de hueso.,Kayqa tullu nanaymi.,dialogo medico,formal,diagnostico
+Voy a desinfectar la herida.,Chy llagata hampisaq,dialogo medico,formal,tratamiento
+Coloca la venda correctamente.,Allinta watayta churay.,dialogo medico,formal,tratamiento
+Tienes tos seca.,Kan kashanki chaqui uhuyuq,dialogo medico,formal,diagnostico
+Tienes tos con flema.,Kan uhushanki qotuyucta,dialogo medico,formal,diagnostico
+Hay flema en tu pecho.,Q’asqoykipi q'oto kashan.,dialogo medico,formal,diagnostico
+No es una enfermedad grave.,Mana onqoyniqui sinchichu.,dialogo medico,formal,diagnostico
+Puede ser grave si no te tratas.,Mana hampikuctiqui peorasunquiman.,dialogo medico,formal,diagnostico
+Toma solo esta dosis.,Kay q’ipi hampillata upyay.,dialogo medico,formal,medicacion
+Vamos a cambiar la medicina.,Hampita kutichisunchik.,dialogo medico,formal,medicacion
+¿Tienes picazón en la piel?,Qaraykipichu seqsin?,dialogo medico,formal,sintomas
+Tu piel está sana.,Qarayki allinmi kashan.,dialogo medico,formal,diagnostico
+Hay inflamación en esa parte.,Chaypi punkiy kan.,dialogo medico,formal,diagnostico
+No bebas alcohol por ahora.,Kunanqa ama upyaychu.,dialogo medico,formal,tratamiento
+Come solo comida ligera.,Pisilla mikhuyta mikhuy.,dialogo medico,formal,tratamiento
+Te haré una revisión completa.,Tukuypi qhaway ruwasqayki.,dialogo medico,formal,diagnostico
+¿Tienes dificultad para caminar?,Puriyta sasachankichu?,dialogo medico,formal,sintomas
+Te falta el aire al caminar.,Purishaspa samayta chinkachkanki.,dialogo medico,formal,sintomas
+Mejorarás pronto con el tratamiento.,Hampiwanta utqay allinyanki.,dialogo medico,formal,tratamiento
+Necesitas descansar más.,Munanki aswanta samayta,dialogo medico,formal,tratamiento
+Regresa si el dolor continúa.,Nanay mana chinkaptinqa kutimunki.,dialogo medico,formal,seguimiento
+"No te preocupes, sanarás.","Ama llakikuychu, allinyanki.",dialogo medico,formal,tratamiento
+¿Tienes mucha sed?,Sinchitachu chaq'isunki?,dialogo medico,formal,sintomas
+¿No puedes orinar?,Mana hispayta atinkichu?,dialogo medico,formal,sintomas
+Orinas con dolor?,Hispaqtiki  nanasunkichu?,dialogo medico,formal,sintomas
+El tratamiento terminó.,Allin hampiy tukupun.,dialogo medico,formal,seguimiento
+Veo dolor,Nanayta rikuni,dialogo medico,formal,diagnostico
+¿Dónde duele?,Maypi nanan?,dialogo medico,formal,diagnostico
+¿Por qué duele?,Imanaktin nanan?,dialogo medico,formal,diagnostico
+¿Desde cuándo duele?,Hayk’aqmantataq nanan?,dialogo medico,formal,diagnostico
+¿Te duele la cabeza?,Umaykichu nanasunki?,dialogo medico,informal,sintomas
+¿Te duele el corazón?,Sonqoykichu nanasunki?,dialogo medico,informal,sintomas
+Tienes dolor de estómago,Wiksaykichu nanasunki?,dialogo medico,informal,sintomas
+Me duele la garganta,Kunkaymi nanashahuan,dialogo medico,informal,sintomas
+Tienes fiebre,Ruphaywan kanshanki,dialogo medico,informal,sintomas
+Estás con mucha fiebre,Nishuta rupashanki,dialogo medico,informal,sintomas
+¿Tienes escalofríos?,Chiriwan kachkanki?,dialogo medico,informal,sintomas
+Tengo Mareo,Sonqoymi muyuy,dialogo medico,informal,sintomas
+Tengo boca seca,simimi ch'akin,dialogo medico,informal,sintomas
+Bebe agua,Unuchata ojhaykuy,dialogo medico,informal,prevencion
+Bebe mas agua,Ashka unuchata ojhaykuy,dialogo medico,informal,prevencion
+Toma la medicina,Hampiquitay ojhaykuy,dialogo medico,informal,medicacion
+Toma dos veces al día,Iskay kutita ojhanayki,dialogo medico,informal,medicacion
+Toma tres veces,Kimsa kutita ojhanayki,dialogo medico,informal,medicacion
+Tómalo después de comer,Mikhuspaña ojhanayki,dialogo medico,informal,medicacion
+No lo tomes con comida,Mana mikhuspa ojhanayki,dialogo medico,informal,medicacion
+Descansa bien,Phuñumuy allinta,dialogo medico,informal,tratamiento
+Descansa más,Astawan puñumuy,dialogo medico,informal,tratamiento
+No te preocupes,Ama llank’aychu,dialogo medico,informal,seguimiento
+Relajate,Samaykuy allinta,dialogo medico,informal,tratamiento
+El dolor disminuirá,Pisiq'haña nanayki,dialogo medico,formal,seguimiento
+Ya estás mejor,Allinllañ kachkanki,dialogo medico,informal,seguimiento
+Aún no estás bien,Manaraq allinchu kachkanki,dialogo medico,informal,seguimiento
+Análisis de sangre,Yawarnikita qawachisunchis,dialogo medico,formal,diagnostico
+te voy hacer sacar tu sangre,Hurquychisanki yawarnikita hurquy,dialogo medico,informal,diagnostico
+En tu sangre sale la enfermedad,Yawarnikipi honqoy llocsinq'ha,dialogo medico,informal,diagnostico
+No es grave,Manan nishuchu onkoyniki,dialogo medico,formal,diagnostico
+Enfermedad grave,Onkoyniyki nishuña kaskhan,dialogo medico,formal,diagnostico
+ese medicamento te vas a comprar,Chay hampita rantiqunki,dialogo medico,informal,medicacion
+te vamos a poner Inyección,Mat’ita churamusayki,dialogo medico,informal,medicacion
+Toma la pastilla,Pastillata mikhuy,dialogo medico,informal,medicacion
+Toma el jarabe,Jarabita upyay,dialogo medico,informal,medicacion
+Tienes Inflamación estomacal,Wiksayki q’ipashan,dialogo medico,formal,diagnostico
+¿Tienes Dolor fuerte?,Nishutachu nanamushasunki?,dialogo medico,informal,sintomas
+¿Tienes dolor leve?,Nanayki pisiñachu kachkan,dialogo medico,informal,sintomas
+No duele mucho,Manan nishuychu nananwan,dialogo medico,informal,seguimiento
+Tu enfermedad esta avanzando,Unquyniki nishullapushan,dialogo medico,formal,seguimiento
+Está mejorando,Onkoyniyki Thaniamushanña,dialogo medico,informal,seguimiento
+Mejoró bastante,Allintañan Thanishanki,dialogo medico,informal,seguimiento
+Tienes Enfermedad pulmonar,Q’asqomanta onqoyoshanki,dialogo medico,formal,diagnostico
+Tienes Enfermedad cardíaca,Sonqokimanta onqoyoshanki,dialogo medico,formal,diagnostico
+Tienes Enfermedad digestiva,Wiksaikimanta onqoyoshanki,dialogo medico,formal,diagnostico
+Toma bebidas caliente,Ruphamatichata ojhanayki,dialogo medico,informal,tratamiento
+Come verduras,Q’umichata mikhunayki,dialogo medico,informal,prevencion
+Esta es buena medicina,Kayqa allin hampi ma,dialogo medico,informal,medicacion
+¿Estas enfermo?,Unqusqachu kachkanki,dialogo medico,informal,diagnostico
+Tengo dolor.,Nanaywan kani.,dialogo medico,informal,sintomas
+Tengo dolor de cabeza.,Uma nanaywan kani.,dialogo medico,informal,sintomas
+Me duele el diente.,Kiruy nanawan.,dialogo medico,informal,sintomas
+Me duele el estómago.,Wiksay nanawan.,dialogo medico,informal,sintomas
+Tengo dolor de garganta.,Kunka nanaywan kani.,dialogo medico,informal,sintomas
+Me duele el pie.,Chaki nanawan.,dialogo medico,informal,sintomas
+Me duele la mano.,Maki nanawan.,dialogo medico,informal,sintomas
+Tengo fiebre.,Ruphaywan kani.,dialogo medico,informal,sintomas
+Tengo frío.,Chiriywan kani.,dialogo medico,informal,sintomas
+Tengo tos.,Q'uchuywan kani.,dialogo medico,informal,sintomas
+Estoy con tos.,Q'uchuywan kani.,dialogo medico,informal,sintomas
+Tengo la nariz tapada.,Sinqay wichq'asqa kachkan.,dialogo medico,informal,sintomas
+Estoy sangrando.,Yawar lluqsishani.,dialogo medico,informal,sintomas
+Estoy cansado(a).,Qhayqosqa kani.,dialogo medico,informal,sintomas
+No me siento bien.,Manan allinchu kani.,dialogo medico,informal,sintomas
+Iré al médico.,Hampiqman risaq.,dialogo medico,informal,seguimiento
+Necesito un médico.,Hampiqta munani.,dialogo medico,informal,diagnostico
+Necesito tratamiento.,Hampiyta munani.,dialogo medico,informal,tratamiento
+Traigo dinero.,Qullqiyta apamuni.,dialogo medico,informal,seguimiento
+¿Tienes dinero?,Qullqiyuqchu kanki?,dialogo medico,informal,seguimiento
+¿Dónde está el dolor?,Maypitaq nanay kachkan?,dialogo medico,informal,diagnostico
+Aquí está el dolor.,Kaypi nanay kachkan.,dialogo medico,informal,sintomas
+¿Desde cuándo tienes dolor?,Hayk'aqmantataq nanaywan kanki?,dialogo medico,informal,diagnostico
+Desde hoy.,Kunanmanta.,dialogo medico,informal,diagnostico
+Desde ayer.,Qayna p'unchawmanta.,dialogo medico,informal,diagnostico
+El médico está aquí.,Hampiq kaypi kachkan.,dialogo medico,informal,seguimiento
+Toma tu medicina.,Hampiykita upyay.,dialogo medico,informal,medicacion
+Tómalo dos veces al día.,Iskay kuti p'unchawpi upyay.,dialogo medico,informal,medicacion
+Bebe agua.,Unuta upyay.,dialogo medico,informal,tratamiento
+Descansa.,Samay.,dialogo medico,informal,tratamiento
+Duerme bien.,Allinta puñuy.,dialogo medico,informal,tratamiento
+No te preocupes.,Ama llakikuychu.,dialogo medico,informal,prevencion
+¿Cómo te llamas?,Imataq sutiyki?,dialogo medico,informal,diagnostico
+¿Cuántos años tienes?,Hayk'a watayuq kanki?,dialogo medico,informal,diagnostico
+Tengo 20 años.,Ñuqaqa iskay chunka watayuq kani.,dialogo medico,informal,diagnostico
+¿Eres hombre o mujer?,Qharichu warmichu kanki?,dialogo medico,informal,diagnostico
+Bienvenido(a).,Allin hamuy.,dialogo medico,informal,seguimiento
+¿Hay tos?,Q'uchuy kachkanchu?,dialogo medico,informal,diagnostico
+¿Hay fiebre?,Ruphay kachkanchu?,dialogo medico,informal,diagnostico
+¿Hay dolor?,Nanay kachkanchu?,dialogo medico,informal,diagnostico
+¿Estás bien?,Allillanchu kanki?,dialogo medico,informal,diagnostico
+"Sí, estoy bien.","Arí, allillanmi kani.",dialogo medico,informal,diagnostico
+No estoy bien.,Manan allillanchu kani.,dialogo medico,informal,sintomas
+¿Por qué vienes?,Imaraykutaq hamunki?,dialogo medico,informal,diagnostico
+Vengo por dolor.,Nanayrayku hamuni.,dialogo medico,informal,sintomas
+Regresa después.,Qhipaman kutimuy.,dialogo medico,informal,seguimiento
+Espera aquí.,Kaypi suyay.,dialogo medico,informal,seguimiento
+Escucha al médico.,Hampiqta uyariy.,dialogo medico,informal,tratamiento
+Queremos buena salud.,Allin kawsayta munanchik.,dialogo medico,informal,prevencion
+El tratamiento es bueno.,Hampiyqa allinmi.,dialogo medico,informal,tratamiento
+¿Qué es lo que le molesta o por qué viene?,¿Iman nanasunqui imarayku hamunki?,dialogo medico,formal,sintomas
+¿Desde cuándo está enfermo?,¿Hayk'akmanta onq'oska kashanky?,dialogo medico,formal,sintomas
+¿Qué enfermedad tiene tu hijo?,¿Imamanta onq'oshan wawayki?,dialogo medico,formal,sintomas
+¿Le duele la espalda?,¿Wasayki nanan?,dialogo medico,formal,sintomas
+"¿Siente dolor al pasar la saliva o los alimentos, ardor o punza o le produce la tos?",¿Nananka hina mikunki tokaynikiwan pasakunki o sananasuykipak o sasawanchu o ujuchu qosonki?,dialogo medico,formal,sintomas
+¿Tiene dolor en el cuello?,¿Kunkayki nananchu?,dialogo medico,formal,sintomas
+¿Tiene tos por momentos o constante?,¿Uhunki pisitachu o nishutachu?,dialogo medico,formal,sintomas
+"¿Con la tos bota algo y de qué color, blanco, verde, amarillo, con sangre o totalmente con sangre?","¿Uhuspa imata thoqanki, ima colortan, yuractachu, q'omertachu, kellotachu o yawartachu?",dialogo medico,formal,sintomas
+"¿Con la tos se agita, no puede respirar bien y si camina se agita o le falta el aire para respirar?","¿Uhunki hina saykunkichu manachu samayta atinki, purinki hina saykunkichu o samay mana kanchu?",dialogo medico,formal,sintomas
+¿La tos se acompaña de dolor hacia alguna parte de la espalda?,¿Uhunki hina huasaykichu nanasunki?,dialogo medico,formal,sintomas
+¿Siente que le ronca o le silba el pecho?,¿Uhunki hina ronkankichu o silvankichu?,dialogo medico,formal,sintomas
+¿Tiene agitación por momentos o todo el día?,¿Saik'unki hask'atachu pisillatachu?,dialogo medico,formal,sintomas
+"¿Tiene dolor, punzada, cuando tose, camina o respira profundo?",¿Uhunki hina nanasunki o purinki hina?,dialogo medico,formal,sintomas
+"Quítese la ropa, le voy a examinar","Ch'utikuy p'achaykita, qhawasaq imaynas kashanki",dialogo medico,formal,diagnostico
+¿Se agita cuando camina?,¿Purinki hina ajitakunkichu?,dialogo medico,formal,sintomas
+¿Se despierta ahogándose cuando duerme?,¿Rikch'ankichu puñuspa mana samayta atispa?,dialogo medico,formal,sintomas
+¿Le duele el pecho cuando camina?,¿Purijtiyki pechoyki nanasunki?,dialogo medico,formal,seguimiento
+¿Qué hace para que el dolor pase?,¿Imatan ruwanki chay nanay pasanampaq?,dialogo medico,formal,sintomas
+"Además de dolor, ¿qué otra cosa siente?",¿Nanaymanta imatan sintinki?,dialogo medico,formal,sintomas
+¿Siente que le palpita el pecho?,¿Pechoyki saltakun?,dialogo medico,formal,diagnostico
+Deme su brazo para ver su presión,Apamuy makiykita presion qhawanaypaq,dialogo medico,formal,diagnostico
+Le voy a examinar su corazón,Sonqoykita qhawasaq imayna kashan,dialogo medico,formal,diagnostico
+Respire / no respire / póngase de costado / siéntese,Samay / ama samaychu / teknemanta churakuy / tiyariy,dialogo medico,formal,diagnostico
+Ponga suelto el abdomen,Wiksaykita ama kuyuchiychu,dialogo medico,formal,sintomas
+¿Están sus pies hinchados? ¿En la mañana o en la tarde?,¿Chakiyki punkisqachu kashan? ¿Tutamantachu o ch'isintachu?,dialogo medico,formal,diagnostico
+Descúbrase la camisa para examinar su corazón,Kichariy camisaykita sonqoyki qhawanapaq,dialogo medico,formal,sintomas
+¿Se cansa o se agita cuando camina poca distancia o gran distancia?,¿Purinki hina saykunkichu pisillatachu o mast'atachu?,dialogo medico,formal,sintomas
+"¿Siente que su corazón le palpita rápido o por momentos, a veces o siempre o cuando camina?","¿Sonqoyki utqhayta purinchu, wakinta o sapa kuti o purinki hina?",dialogo medico,formal,sintomas
+¿Esa hinchazón ha subido hasta las piernas o la barriga?,¿Chakillaykikama punkisqachu o wiksakama?,dialogo medico,formal,sintomas
+¿Siente el abdomen más hinchado cuando come o después de comer?,¿Wiksayki aswan punkin mikuspa o mikusqanmanta qhipa?,dialogo medico,formal,sintomas
+¿Alguna vez se ha despertado bruscamente a media noche porque le faltaba aire para respirar o estaba tosiendo o estaba agitado?,¿Rikcharinkichu kuskan tuta mana samayta atispa o uhuspa saykuspa?,dialogo medico,formal,sintomas
+¿El dolor en el pecho se ha vuelto permanente?,¿Qhasqo nanayniyki unaymanatañachu nanan?,dialogo medico,formal,sintomas
+¿Es algo como que le aprisionaran o apretaran el pecho?,¿Mat'iykusunquimanchu sonqoykita hina mat'ikun?,dialogo medico,formal,sintomas
+"Cuando le caen mal los alimentos, ¿le dan ganas de arrojar (vomitar), le viene dolor, siente que se hincha el abdomen? ¿Cuánto tiempo dura esta molestia?","¿Mikuyniyki mana allinchu kashan hina aktupakuyta munankichu, nanay hapisunki, wiksayki punkin? Hayk'a unayta nanan?",dialogo medico,formal,sintomas
+"Si ha tenido dolor en la boca del estómago (epigastrio), ¿este dolor luego se localiza en el lado derecho y es muy intenso?","Wiksay simipi nanasunkichu, chay nanay paña wiksapi sinch'ita nanan?",dialogo medico,formal,sintomas
+¿A los pocos días ese dolor se acompaña de coloración amarilla en los ojos y la piel y hay cambio de color de la orina?,"Pisi p'unchay hinaspa ñawiykik'ello tukunchu, aychaykipis, hisp'aynikipis t'ikran?",dialogo medico,formal,diagnostico
+¿Cómo fue su parto? ¿Dónde y quién la ha atendido?,"¿Imaynatam wacharanki, maypitaq pitas qhawarasunki?",dialogo medico,formal,sintomas
+¿Has tenido mucho dolor de cadera?,¿Tekniyki anchata nanasunki?,dialogo medico,formal,diagnostico
+¿Le ha visto un ginecólogo? ¿Una vez al año? ¿Cuánto tiempo no lo ha visto o nunca lo hizo?,¿Rikusunkichu warmi doctor sapa watapi? Hayk'akmanta mana rikunki o manaraqchu?,dialogo medico,formal,diagnostico
+Voy a tomarle la presión,Presionniykita qhawasaq imayna kashan,dialogo medico,formal,prevencion
+Traiga a su hijo para vacunarlo,Wawaykita vacunanapaq apamuy,dialogo medico,formal,seguimiento
+"Cada mes debes traer a tu hijo para pesarlo, examinarlo","Wawaykita sapa killa apamunki pesanapaq, qhawanapaq",dialogo medico,formal,diagnostico
+Vaya al laboratorio,Laboratorioman puriy,dialogo medico,formal,diagnostico
+Mañana viene en ayunas,Paqarin hamunki ama mikuspa,dialogo medico,formal,tratamiento
+Necesita que le operen,Operasunki tiyan,dialogo medico,formal,diagnostico
+¿Le sacaron radiografía?,¿Radiografiata orqorasunkichu?,dialogo medico,formal,tratamiento
+Le voy a poner suero,Suerota churasayki,dialogo medico,formal,tratamiento
+¿Le ajusta la venda?,¿Mat'isunkichu chumpi?,dialogo medico,formal,tratamiento
+La herida se puede abrir,Heridayki kicharikunman,dialogo medico,formal,tratamiento
+Se le puede infectar,Q'echakunmanmi,dialogo medico,formal,tratamiento
+¿Cómo has estado durmiendo últimamente?,¿Imaynan puñurqanki kay qhipa p'unchawpi?,dialogo medico,informal,sintomas
+¿Has notado cambios en tu apetito?,¿Ima tikraytachu rikurqanki mikhunaykipaq?,dialogo medico,formal,sintomas
+¿Te sientes más cansado de lo normal?,¿As más sayk'usqachu tarikunki sapa kuti kashasqaykimanta?,dialogo medico,informal,sintomas
+¿Tienes problemas para concentrarte?,¿Sasachakunkichu yuyayniykiwan?,dialogo medico,informal,sintomas
+¿Has tenido dolores de cabeza últimamente?,¿Umayki nanashasunkichu kay qhipa p'unchawpi?,dialogo medico,informal,sintomas
+¿Sientes mareos o vértigo?,¿Umay muyuyta sintishanki?,dialogo medico,formal,sintomas
+¿Has tenido problemas de visión?,¿Ñawiypi sasachakuykunata charqanki?,dialogo medico,formal,sintomas
+¿Tienes dolor de oído?,¿Rinriyki nanashasunkichu?,dialogo medico,informal,sintomas
+¿Tienes congestión nasal o secreción nasal?,¿Sinqhayki hunt'asqachu icha yakuyuqchu?,dialogo medico,formal,sintomas
+¿Tienes dolor de garganta?,¿Kunkayki nanashasunkichu?,dialogo medico,informal,sintomas
+¿Tienes dificultad para tragar?,¿Sasachakunkichu millp'uyta?,dialogo medico,formal,sintomas
+¿Has notado cambios en tu voz?,¿Rimayniykipi t'ikrayta rikurqanki?,dialogo medico,formal,sintomas
+¿Tienes tos?,¿Uhukushankichu?,dialogo medico,informal,sintomas
+¿Tienes dificultad para respirar?,¿Sasachakunkichu samayta?,dialogo medico,formal,sintomas
+¿Sientes dolor en el pecho?,¿Qhasqoyki nanashasunkichu?,dialogo medico,formal,sintomas
+¿Tienes palpitaciones?,¿Sunquyki phinkiykushanchu?,dialogo medico,informal,sintomas
+¿Tienes hinchazón en los tobillos o las piernas?,¿Chakiyki punkishanchu?,dialogo medico,formal,sintomas
+¿Tienes dolor de estómago?,¿Wiksayki nanashasunkichu?,dialogo medico,formal,sintomas
+¿Tienes náuseas o vómitos?,¿Aqtupakuyta munashankichu?,dialogo medico,formal,sintomas
+¿Tienes diarrea o estreñimiento?,¿Iskaychaychu kashanki icha mana iskaychaychu?,dialogo medico,formal,sintomas
+¿Has notado sangre en las heces?,¿Yawarta rikurqanki iskaychaynikipi?,dialogo medico,informal,sintomas
+¿Tienes dolor al orinar?,¿Hispayta nanashasunkichu?,dialogo medico,formal,sintomas
+¿Tienes que orinar con frecuencia?,¿Sapa kuti hispayta munashanki?,dialogo medico,formal,sintomas
+¿Has notado cambios en tu orina?,¿Hisp'aynikipi huk tikrayta rikurqanki?,dialogo medico,formal,sintomas
+¿Tienes dolor en las articulaciones?,¿Tullukunapi nanayniyuqchu kanki?,dialogo medico,informal,sintomas
+¿Tienes rigidez en las articulaciones?,¿Tullukunapi qaqawchu kanki?,dialogo medico,formal,sintomas
+¿Tienes dolor muscular?,¿Aychayki nanashasunkichu?,dialogo medico,formal,sintomas
+¿Tienes erupciones en la piel?,¿Qaraykipi q'uru kashanchu?,dialogo medico,formal,sintomas
+¿Tienes picazón en la piel?,¿Qarayki qaqachakushanchu?,dialogo medico,formal,sintomas
+¿Tienes moretones con facilidad?,¿Utqaylla panti tukupunki?,dialogo medico,informal,sintomas
+¿Tienes sangrado inusual?,¿Mana sapa kuti yawar lluqsimushanchu?,dialogo medico,formal,sintomas
+¿Has perdido peso sin intentarlo?,¿Mana munaspachu llank'ayta pisiyachishanki?,dialogo medico,informal,sintomas
+¿Has tenido fiebre?,¿Ruphaqkashankichu,dialogo medico,formal,sintomas
+¿Has tenido escalofríos?,¿Chiriywan kashankichu?,dialogo medico,formal,sintomas
+¿Tienes sudores nocturnos?,¿Tutapi humpi kashanki?,dialogo medico,formal,sintomas
+¿Te sientes deprimido o ansioso?,¿Llakisqa utaq manchakuywan kashanki?,dialogo medico,informal,sintomas
+¿Tienes problemas para dormir?,¿Sasachakunkichu puñuyta?,dialogo medico,informal,sintomas
+¿Tienes pensamientos suicidas?,¿Wañuyta yuyashankichu?,dialogo medico,formal,sintomas
+¿Has tenido convulsiones?,¿Katarqachu kashanki?,dialogo medico,informal,sintomas
+¿Has perdido la conciencia?,¿Mana yuyayniyuqchu tarikunki?,dialogo medico,informal,sintomas
+¿Tienes problemas de memoria?,¿Yuyaypi sasachakuykunata charqanki?,dialogo medico,formal,diagnostico
+¿Tienes dificultad para hablar?,¿Rimaypi sasachakuyta charqanki?,dialogo medico,formal,sintomas
+¿Tienes debilidad en los brazos o las piernas?,¿Brazo utaq chakipi pisiyarqanki?,dialogo medico,formal,sintomas
+¿Tienes entumecimiento en los brazos o las piernas?,¿Brazo utaq chakipi wañuyta charqanki?,dialogo medico,informal,sintomas
+¿Tienes temblores?,¿Katikachakushankichu?,dialogo medico,formal,sintomas
+¿Tienes problemas de equilibrio?,¿Tinkuykachaypi sasachakuyta charqanki?,dialogo medico,formal,sintomas
+¿Has tenido caídas?,¿Urmarqachu kashanki?,dialogo medico,formal,sintomas
+¿Tienes llagas que no cicatrizan?,¿Mana allin qhali t'uqyakunata charqanki?,dialogo medico,formal,sintomas
+¿Tienes ganglios linfáticos inflamados?,¿Linfakunapi punkikunata charqanki?,dialogo medico,formal,sintomas
+¿Has notado algún bulto o masa inusual?,¿Huk mana riqsisqa punkita utaq masata rikurqanki?,dialogo medico,formal,sintomas
